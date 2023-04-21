@@ -13,7 +13,7 @@ http://191.97.55.241:8000/play/a03r/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local",Exitosa
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
-https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
+http://191.97.55.241:8000/play/a03u/index.m3u8 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
@@ -31,7 +31,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
 http://191.97.55.241:8000/play/a06y/index.m3u8
 #EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
-https://m3u-editor.com/serve/kiwitvlite/765696589
+http://191.97.55.241:8000/play/a040/index.m3u8
 #EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
 https://m3u-editor.com/serve/kiwitvlite/765696590
 #EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
@@ -39,7 +39,7 @@ http://190.131.228.59:8000/play/a08r/index.m3u8
 #EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
 http://177.234.230.226:8010/play/a03e/index.m3u8
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
-https://m3u-editor.com/serve/kiwitvlite/765696593
+http://191.97.55.241:8000/play/a06q/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
 https://m3u-editor.com/serve/kiwitvlite/765696594
 #EXTINF: -1 tvg-id="508dtv.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
@@ -73,11 +73,11 @@ http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF: -1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3
 http://177.234.230.226:8010/play/a007/index.m3u8
 #EXTINF: -1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
-https://m3u-editor.com/serve/kiwitvlite/765696661
+http://191.97.55.241:8000/play/a03t/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
 https://m3u-editor.com/serve/kiwitvlite/765696662
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
-https://m3u-editor.com/serve/kiwitvlite/765696663
+http://191.97.55.241:8000/play/a05s/index.m3u8
 #EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
 https://m3u-editor.com/serve/kiwitvlite/765696612
 #EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
