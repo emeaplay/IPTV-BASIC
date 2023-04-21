@@ -1,1 +1,476 @@
-good
+#EXTM3U tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF: -1 tvg-logo="https://img.freepik.com/vector-premium/dibujos-animados-retro-tv-plana_184560-240.jpg" group-title="Local",otiPLAY TV
+https://raw.githubusercontent.com/emeaplay/KiwiIP/main/otiPLAY.mp4
+#EXTINF: -1 tvg-id="192dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local",Latina
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
+https://m3u-editor.com/serve/kiwitvlite/765696577
+#EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
+http://191.97.55.241:8000/play/a03r/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local",Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
+https://cdnh74.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
+http://191.97.55.241:8000/play/a03s/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="Local", RPP TV
+http://191.97.55.241:8000/play/a088/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local",Canal N
+http://191.97.55.241:8000/play/a08f/index.m3u8
+#EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
+http://191.97.56.146:8000/play/a09r/index.m3u8
+#EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
+http://191.97.55.241:8000/play/a07f/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
+https://m3u-editor.com/serve/kiwitvlite/765696587
+#EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
+http://191.97.55.241:8000/play/a06y/index.m3u8
+#EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
+https://m3u-editor.com/serve/kiwitvlite/765696589
+#EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
+https://m3u-editor.com/serve/kiwitvlite/765696590
+#EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
+http://190.131.228.59:8000/play/a08r/index.m3u8
+#EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
+http://177.234.230.226:8010/play/a03e/index.m3u8
+#EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
+https://m3u-editor.com/serve/kiwitvlite/765696593
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
+https://m3u-editor.com/serve/kiwitvlite/765696594
+#EXTINF: -1 tvg-id="508dtv.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
+http://191.97.55.241:8000/play/a02u/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
+http://177.234.230.226:8010/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC
+http://190.83.119.67:8000/play/a01v/index.m3u8
+#EXTINF: -1 tvg-id="1509dtv.cl" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Peliculas", CineMAX
+http://191.98.171.198:4000/play/a01g/index.m3u8
+#EXTINF: -1 tvg-id="220dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Realidad", TRU TV
+http://190.83.119.67:8000/play/a012/index.m3u8
+#EXTINF: -1 tvg-id="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Realidad", TBS
+http://191.97.55.241:8000/play/a03m/index.m3u8
+#EXTINF: 1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg" group-title="Salud", MEDICOS TV
+https://m3u-editor.com/serve/kiwitvlite/765696607
+#EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="Salud", INTI
+https://m3u-editor.com/serve/kiwitvlite/765696608
+#EXTINF: -1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg" group-title="Deportes", Contacto Deportivo
+https://m3u-editor.com/serve/kiwitvlite/765696655
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes",GOLPERU / Peru Magico
+http://186.5.31.251:8000/play/a0ad/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
+http://186.5.31.251:8000/play/a09t/index.m3u8
+#EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
+http://177.234.230.226:8010/play/a001/index.m3u8
+#EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes",ESPN 2
+http://177.234.230.226:8010/play/a006/index.m3u8
+#EXTINF: -1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3
+http://177.234.230.226:8010/play/a007/index.m3u8
+#EXTINF: -1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
+https://m3u-editor.com/serve/kiwitvlite/765696661
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
+https://m3u-editor.com/serve/kiwitvlite/765696662
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
+https://m3u-editor.com/serve/kiwitvlite/765696663
+#EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
+https://m3u-editor.com/serve/kiwitvlite/765696612
+#EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
+http://191.97.55.241:8000/play/a05f/index.m3u8
+#EXTINF: -1 tvg-id="315dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Infantil", DISNEY JR
+http://191.97.55.241:8000/play/a02t/index.m3u8
+#EXTINF: -1 tvg-id="330dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/29.png" group-title="Infantil", DISCOVERY KIDS
+http://191.97.55.241:8000/play/a02n/index.m3u8
+#EXTINF: -1 tvg-id="308dtv.ar"><tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Infantil", NICK
+http://191.97.55.241:8000/play/a06m/index.m3u8
+#EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil", TOONCAST
+http://181.189.243.254:8000/play/a0s3/index.m3u8
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica", HITS
+https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/chunks.m3u8?
+#EXTINF: -1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Musica", Memorias TV
+https://m3u-editor.com/serve/kiwitvlite/765696619
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", TOP LATINO
+https://m3u-editor.com/serve/kiwitvlite/765696620
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="Musica",Best Cable Musica
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variados", LAS ESTRELLAS
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variados", ESTRELLA TV
+https://m3u-editor.com/serve/kiwitvlite/765696629
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Variados", VE PLUS
+https://m3u-editor.com/serve/kiwitvlite/765696630
+#EXTINF: -1 tvg-id="227dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Variados", TLNovelas
+http://191.97.55.241:8000/play/a089/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
+
+#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="Variados",Home Garden Latino
+http://186.148.184.163:8000/play/a04v
+#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Variados",Distrito Comedia
+http://186.5.31.251:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png" group-title="Variados",De Pelicula
+http://51.222.110.182:8000/play/a00d
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="Variados",Food Network
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/1484
+#EXTINF: -1 tvg-id="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery
+http://191.97.55.241:8000/play/a05g/index.m3u8
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Cultura", HISTORY
+https://m3u-editor.com/serve/kiwitvlite/765696597
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png" group-title="Cultura", H2
+https://m3u-editor.com/serve/kiwitvlite/765696598
+#EXTINF: -1 tvg-id="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
+http://191.97.55.241:8000/play/a03k/index.m3u8
+#EXTINF: -1 tvg-id="730dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
+http://191.97.56.146:8000/play/a06d/index.m3u8
+#EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Cultura", ANIMAL PLANET
+http://191.97.56.146:8000/play/a061/index.m3u8
+#EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura", LOVE NATURE
+http://177.234.230.226:8010/play/a03o/index.m3u8
+#EXTINF: -1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="Noticias", CNN en Español
+http://190.60.37.69:8015/play/a00z/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="Noticias", RT NOTICIAS
+https://m3u-editor.com/serve/kiwitvlite/765696669
+#EXTINF: -1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="Noticias", Identidad TV
+https://m3u-editor.com/serve/kiwitvlite/765696668
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="ViX",Nosotros los Guapos
+https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522?tr=q-80&w=1920" group-title="ViX",La Usurpadora
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Cuidado con el Angel
+https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="ViX",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920" group-title="ViX",Mi Gorda Bella
+https://linear-330.frequency.stream/dist/vix/330/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="ViX",Vecinos
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Rebelde
+https://linear-335.frequency.stream/335/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750" group-title="ViX",Las 3 Marias
+https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="ViX",La Familia P.Luche
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="ViX",Como dice el dicho
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto", Pluto TV Gui­a de canales
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Pluto", Pluto TV Cine Accion
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Pluto", Pluto TV Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Pluto", Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Pluto", Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Pluto", Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Pluto", Pluto TV Cocina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Pluto", Pluto TV Deportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Pluto", Pluto TV Novelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto", Pluto TV Series
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
+http://191.97.55.241:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
+http://191.97.55.241:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
+http://177.234.230.226:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", Liga 1 MAX
+http://190.108.93.148:8000/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", Multipremier HD
+http://160.20.165.246:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
+http://191.97.55.241:8000/play/a08g/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="EXTRAS",Movistar PLUS
+http://191.97.55.241:8000/play/a07m/index.m3u8
+
+#EXTINF:-1 group-title="EXTRAS",Antena 3
+http://177.234.230.226:8010/play/a00l/index.m3u8
+#EXTINF:-1 group-title="EXTRAS",Cine Real - FreeTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="EXTRAS",Top Cine - FREETV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="EXTRAS",Tu Cine - FREETV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="EXTRAS",Cine Juntos -FREETV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="EXTRAS",Horrorfy - Cine Terror
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-horrorfy-selecttv/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1 group-title="EXTRAS",MMC - Mexican Music Channel
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-mmc-selecttv/CDN/1280x720_2890800/index.m3u8
+#EXTINF:-1 group-title="EXTRAS",Flash Musica
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-selecttv/CDN/1280x720_2890800/index.m3u8
+#EXTINF:-1 group-title="EXTRAS",Cine Sureño FREETV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="EXTRAS",Karaoke Latino
+https://stream.ads.ottera.tv/cl/230410cgpp2gehfio79lbtpaqg/1280x720_1400000_1_f.m3u8
+#EXTINF:-1 group-title="EXTRAS",Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-selecttvA/CDN/1280x720_2855600/index.m3u8
+
+
+BLOQUE RADIOS
+#EXTINF:-1,Radio HIT FM
+https://stream-017.zeno.fm/gkf1bdaz27xuv?zs=LW71BLyiQ3-egXvwc3lLrA
+#EXTINF:-1,Radio MIX FM
+https://stream-57.zeno.fm/qnym6trqokstv?zs=klZlnMTLQSWozk0lfHLQdg
+#EXTINF:-1,Radio Magica
+https://27153.live.streamtheworld.com/MAG_ADP.aac
+#EXTINF:-1,Radio Felicidad
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233401_HIe8EpHY__0000000vbqV&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=p7yv0JNMZmLG23brkVc4JbgvAyzSykiP&ref=audioplayer.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1679175163226&ot=dvh-cl6priskDyUuIXDz-A&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio RPP
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233130_Z2mCWtCz__0000000v92D&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=VkGgRGD7jm1ROyLp6RnTeHZXjfuW0Pa0&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679174893116&ot=Uwf2n855oXD7BAojOvDoJg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
+#EXTINF:-1,Radio La Zona
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233260_DQoUpFOR__0000000vabU&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=yz8tTsU0er1ER9pgR4MXX2ip1K46g1JP&ref=audioplayer.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1679175022785&ot=b6fTtlpKDpumMLv4_2tNBw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio La Zona Salsa
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada59e471e070829a79443/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233302_UcKLnSZk__0000000vaxH&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=pW9UkWp0igW2ZGMNyGL594FgPt38Q26Y&ref=audioplayer.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1679175065056&ot=L4xEo1FbOxB8iKchJ20bmg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada59e471e070829a79443&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio PBO
+https://n13.radiojar.com/2fse67zuv8hvv
+#EXTINF:-1,Radio Studio 92
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233195_pfKaCtIk__0000000v9C3&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=xxy4g7KfcE0o1SeVwRNEnS223EMWSQRV&ref=audioplayer.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1679174958678&ot=rbvUc__2B9yjOLtdCUqjgA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio Ritmo Romantica
+https://25053.live.streamtheworld.com/CRP_RIT_ADP.aac
+#EXTINF:-1,Radio La Inolvidable
+https://18703.live.streamtheworld.com/CRP_LI_ADP.aac
+#EXTINF:-1,Radio Corazon
+https://us-b5-p-e-wo1-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233440_SUJ0VHyu__0000000vbMC&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=Q332vPKI02Wm3rnhAyPIepncuc1EnRbP&ref=audioplayer.pe&es=us-b5-p-e-wo1-audio.cdn.mdstrm.com&ote=1679175203152&ot=YbP0ofn0IxFUAygVdEKKwg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio Exitosa
+http://node-30.zeno.fm/csy4vzackf9uv
+#EXTINF:-1,Radio MegaMix
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233346_50Q1qHuP__0000000vaWL&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=cQkJORdDmloJFKNIlYUgx1XepcQ9HRLD&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175109006&ot=X4H9LjW-ccoByEKermOHTw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio Moda
+https://23103.live.streamtheworld.com/CRP_MOD_ADP.aac
+#EXTINF:-1,Radio Oasis
+https://17553.live.streamtheworld.com/CRP_OASAAC.aac
+#EXTINF:-1,Radio Oxigeno
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_232911_DyO3YYMq__0000000v790&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=fgeRIMoiz9nCeO8ITfLJLntApQHeaO9E&ref=audioplayer.pe&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1679174674012&ot=LN0GZG2lMWipcK4xKWzzAQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.4
+#EXTINF:-1,Radio Nacional
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1,Radio America
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?listeningSessionID=64114cc400bc4e1b_233643_3S3eiCEt__0000000vdzl&downloadSessionID=0&aid=5b8ea6f89ff52d0770a144c4&dnt=true&uid=el3AKVk4Zm4AFKO4CcxsUa2FqVkb1hJ1&sid=5Agd0suO1bru0RzBCRAk2joy4WLw7bUA&pid=qnBRx2h5I5GhzQPMPVK5d7nAMMZllEXU&ref=radioamerica.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1679175406847&ot=qC80_rD1Zr6HPhyDYpFz8A&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&aw_0_1st.playerId=appName&liveId=60bfd82b9488941e9d86eb1d&referer=https%3A%2F%2Fradioamerica.pe%2F&propertyName=appName&propertyType=web-app&propertyVersion=v0.0.169
+#EXTINF:-1,Radio Mar
+https://23103.live.streamtheworld.com/CRP_MAR_ADP.aac
+#EXTINF:-1,Radio Nueva Q
+https://18813.live.streamtheworld.com/CRP_NQ_ADP.aac
+#EXTINF:-1,Radio Planeta
+https://14833.live.streamtheworld.com/CRP_PLA_ADP.aac
+#EXTINF:-1,Radio Festiva
+https://23023.live.streamtheworld.com/CRP_FES_S01.mp3
+#EXTINF:-1,Radio Latidos
+https://radio.pjcks.com/7230/stream
+#EXTINF:-1,Radio Tropical
+https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
+#EXTINF:-1,Radio Frecuencia Primera
+https://stream-50.zeno.fm/8s00mv58kfhvv?zs=Va1KZmvPRdGecuuOCi52QQ
+
+#EXTM3U
+#EXTINF:-1,MULTIPREMIER HD
+http://177.234.230.226:8010/play/a00h/index.m3u8
+#EXTINF:-1,MULTICINEMA
+http://177.234.230.226:8010/play/a00i/index.m3u8
+#EXTINF:-1,CARACOL
+http://177.234.230.226:8010/play/a00j/index.m3u8
+#EXTINF:-1,HOLA TV
+http://177.234.230.226:8010/play/a00k/index.m3u8
+#EXTINF:-1,ANTENA 3
+http://177.234.230.226:8010/play/a00l/index.m3u8
+#EXTINF:-1,A3 SERIES
+http://177.234.230.226:8010/play/a00m/index.m3u8
+#EXTINF:-1,FUN BOX
+http://177.234.230.226:8010/play/a00o/index.m3u8
+#EXTINF:-1,TEVE KIDS
+http://177.234.230.226:8010/play/a00p/index.m3u8
+#EXTINF:-1,Pasiones
+http://177.234.230.226:8010/play/a00s/index.m3u8
+#EXTINF:-1,CLOVER
+http://177.234.230.226:8010/play/a00a/index.m3u8
+#EXTINF:-1,PARAMOUNT HD
+http://177.234.230.226:8010/play/a00b/index.m3u8
+#EXTINF:-1,CINECANAL
+http://177.234.230.226:8010/play/a00c/index.m3u8
+#EXTINF:-1,GOL TV
+http://177.234.230.226:8010/play/a003/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://177.234.230.226:8010/play/a002/index.m3u8
+#EXTINF:-1,FOX SPORT 3
+http://177.234.230.226:8010/play/a004/index.m3u8
+#EXTINF:-1,Naranjal tv
+http://177.234.230.226:8010/play/a005/index.m3u8
+#EXTINF:-1,ESPN
+http://177.234.230.226:8010/play/a001/index.m3u8
+#EXTINF:-1,ESPN 2
+http://177.234.230.226:8010/play/a006/index.m3u8
+#EXTINF:-1,ESPN 3
+http://177.234.230.226:8010/play/a007/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.234.230.226:8010/play/a008/index.m3u8
+#EXTINF:-1,RTS
+http://177.234.230.226:8010/play/a009/index.m3u8
+#EXTINF:-1,FX
+http://177.234.230.226:8010/play/a00d/index.m3u8
+#EXTINF:-1,Cine mexicano
+http://177.234.230.226:8010/play/a00e/index.m3u8
+#EXTINF:-1,CINEMA PLATINIUM
+http://177.234.230.226:8010/play/a00f/index.m3u8
+#EXTINF:-1,LOVE NATURE
+http://177.234.230.226:8010/play/a03o/index.m3u8
+#EXTINF:-1,E!
+http://177.234.230.226:8010/play/a00g/index.m3u8
+#EXTINF:-1,DISCOVEY SCIENCE
+http://177.234.230.226:8010/play/a02u/index.m3u8
+#EXTINF:-1,A&E
+http://177.234.230.226:8010/play/a03b/index.m3u8
+#EXTINF:-1,AXN
+http://177.234.230.226:8010/play/a03e/index.m3u8
+#EXTINF:-1,AZ CLIC
+http://177.234.230.226:8010/play/a01r/index.m3u8
+#EXTINF:-1,AZ CORAZON
+http://177.234.230.226:8010/play/a024/index.m3u8
+#EXTINF:-1,AZ MUNDO
+http://177.234.230.226:8010/play/a01y/index.m3u8
+#EXTINF:-1,AZCINEMA
+http://177.234.230.226:8010/play/a01o/index.m3u8
+#EXTINF:-1,BABY TV
+http://177.234.230.226:8010/play/a02w/index.m3u8
+#EXTINF:-1,BOLIVISION
+http://177.234.230.226:8010/play/a035/index.m3u8
+#EXTINF:-1,CANAL 13
+http://177.234.230.226:8010/play/a039/index.m3u8
+#EXTINF:-1,CANAL CONGRESO
+http://177.234.230.226:8010/play/a038/index.m3u8
+#EXTINF:-1,CANAL DRAMA
+http://177.234.230.226:8010/play/a01z/index.m3u8
+#EXTINF:-1,CANAL INFANTIL 
+http://177.234.230.226:8010/play/a030/index.m3u8
+#EXTINF:-1,CANAL UNO (R)
+http://177.234.230.226:8010/play/a036/index.m3u8
+#EXTINF:-1,CARACOL NAC
+http://177.234.230.226:8010/play/a03p/index.m3u8
+#EXTINF:-1,CINE FAMILIAR
+http://177.234.230.226:8010/play/a00v/index.m3u8
+#EXTINF:-1,CITY TV
+http://177.234.230.226:8010/play/a01e/index.m3u8
+#EXTINF:-1,CLASSIC
+http://177.234.230.226:8010/play/a03w/index.m3u8
+#EXTINF:-1,COMEDY-CENTRAL
+http://177.234.230.226:8010/play/a01v/index.m3u8
+#EXTINF:-1,DHE
+http://177.234.230.226:8010/play/a01c/index.m3u8
+#EXTINF:-1,E40 MUSIC
+http://177.234.230.226:8010/play/a01t/index.m3u8
+#EXTINF:-1,ECUADOR TV
+http://177.234.230.226:8010/play/a02c/index.m3u8
+#EXTINF:-1,ECUAVISA 
+http://177.234.230.226:8010/play/a02b/index.m3u8
+#EXTINF:-1,EL 13 INTER
+http://177.234.230.226:8010/play/a02s/index.m3u8
+#EXTINF:-1,ENLACE
+http://177.234.230.226:8010/play/a02k/index.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://177.234.230.226:8010/play/a02L/index.m3u8
+#EXTINF:-1,EURONEWS SPANISH HD
+http://177.234.230.226:8010/play/a03k/index.m3u8
+#EXTINF:-1,EWTN
+http://177.234.230.226:8010/play/a02j/index.m3u8
+#EXTINF:-1,FANPOP
+http://177.234.230.226:8010/play/a03x/index.m3u8
+#EXTINF:-1,FMHFAMILY
+http://177.234.230.226:8010/play/a03y/index.m3u8
+#EXTINF:-1,FMHKIDS
+http://177.234.230.226:8010/play/a03z/index.m3u8
+#EXTINF:-1,FOX CHANNEL
+http://177.234.230.226:8010/play/a019/index.m3u8
+#EXTINF:-1,GAMA TV
+http://177.234.230.226:8010/play/a02d/index.m3u8
+#EXTINF:-1,HISTORY
+http://177.234.230.226:8010/play/a03c/index.m3u8
+#EXTINF:-1,HISTORY 2
+http://177.234.230.226:8010/play/a03i/index.m3u8
+#EXTINF:-1,HITS HD
+http://177.234.230.226:8010/play/a023/index.m3u8
+#EXTINF:-1,IVC
+http://177.234.230.226:8010/play/a03h/index.m3u8
+#EXTINF:-1,LA TELE
+http://177.234.230.226:8010/play/a034/index.m3u8
+#EXTINF:-1,LIFETIME
+http://177.234.230.226:8010/play/a03j/index.m3u8
+#EXTINF:-1,MAS-CHIC
+http://177.234.230.226:8010/play/a01x/index.m3u8
+#EXTINF:-1,NICK
+http://177.234.230.226:8010/play/a032/index.m3u8
+#EXTINF:-1,NTN 24
+http://177.234.230.226:8010/play/a02i/index.m3u8
+#EXTINF:-1,OROMAR TV A
+http://177.234.230.226:8010/play/a02e/index.m3u8
+#EXTINF:-1,PANAMERICANA HD
+http://177.234.230.226:8010/play/a02t/index.m3u8
+#EXTINF:-1,PASAJE TV
+http://177.234.230.226:8010/play/a00t/index.m3u8
+#EXTINF:-1,POPULAR HD
+http://177.234.230.226:8010/play/a022/index.m3u8
+#EXTINF:-1,RCN 
+http://177.234.230.226:8010/play/a02r/index.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://177.234.230.226:8010/play/a01w/index.m3u8
+#EXTINF:-1,REGGAETON HD
+http://177.234.230.226:8010/play/a020/index.m3u8
+#EXTINF:-1,RT ESP HD
+http://177.234.230.226:8010/play/a03l/index.m3u8
+#EXTINF:-1,RTU
+http://177.234.230.226:8010/play/a029/index.m3u8
+#EXTINF:-1,SALSA HD
+http://177.234.230.226:8010/play/a021/index.m3u8
+#EXTINF:-1,SENAL COLOMBIA (R)
+http://177.234.230.226:8010/play/a037/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://177.234.230.226:8010/play/a03f/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://177.234.230.226:8010/play/a017/index.m3u8
+#EXTINF:-1,SYFY
+http://177.234.230.226:8010/play/a01u/index.m3u8
+#EXTINF:-1,TC TELEVISION
+http://177.234.230.226:8010/play/a02g/index.m3u8
+#EXTINF:-1,TELEAMAZONAS HD
+http://177.234.230.226:8010/play/a02h/index.m3u8
+#EXTINF:-1,TELECAFE (R)
+http://177.234.230.226:8010/play/a03a/index.m3u8
+#EXTINF:-1,TELEFUTURO
+http://177.234.230.226:8010/play/a033/index.m3u8
+#EXTINF:-1,TELEMUNDO
+http://177.234.230.226:8010/play/a013/index.m3u8
+#EXTINF:-1,TELERAMA
+http://177.234.230.226:8010/play/a02a/index.m3u8
+#EXTINF:-1,TELESUR
+http://177.234.230.226:8010/play/a03m/index.m3u8
+#EXTINF:-1,TITAM_NARANJAL
+http://177.234.230.226:8010/play/a040/index.m3u8
+#EXTINF:-1,TVC
+http://177.234.230.226:8010/play/a028/index.m3u8
+#EXTINF:-1,TYC SPORTS
+http://177.234.230.226:8010/play/a01m/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://177.234.230.226:8010/play/a014/index.m3u8
+#EXTINF:-1,VE PLUS
+http://177.234.230.226:8010/play/a025/index.m3u8
+#EXTINF:-1,VITO TVO
+http://177.234.230.226:8010/play/a02f/index.m3u8
+#EXTINF:-1,ZOOMOO HD
+http://177.234.230.226:8010/play/a02x/index.m3u8
+#EXTINF:-1,warner
+http://177.234.230.226:8010/play/a00q/index.m3u8
