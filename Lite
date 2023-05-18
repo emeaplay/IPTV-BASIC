@@ -23,7 +23,7 @@ http://191.97.55.241:8000/play/a088/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local",Canal N
 http://191.97.55.241:8000/play/a08f/index.m3u8
 #EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
-http://191.97.56.146:8000/play/a09r/index.m3u8
+http://191.98.171.198:4000/play/a017/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
 http://191.97.55.241:8000/play/a07f/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
@@ -35,9 +35,9 @@ http://191.97.55.241:8000/play/a040/index.m3u8
 #EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
 https://m3u-editor.com/serve/kiwitvlite/765696590
 #EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
-http://190.131.228.59:8000/play/a08r/index.m3u8
+http://191.98.171.198:4000/play/a009/index.m3u8
 #EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
-http://177.234.230.226:8010/play/a03e/index.m3u8
+http://191.98.171.198:4000/play/a01i/index.m3u8
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
 http://191.97.55.241:8000/play/a06q/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
@@ -63,9 +63,11 @@ https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes",GOLPERU / Peru Magico
-http://186.5.31.251:8000/play/a0ad/index.m3u8
+http://191.97.49.194:8000/play/a02r/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Liga1max.png/320px-Liga1max.png" group-title="Deportes",Liga 1 MAX
+http://51.222.110.182:8000/play/a00f
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
-http://186.5.31.251:8000/play/a09t/index.m3u8
+http://191.97.49.194:8000/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
 http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes",ESPN 2
@@ -79,7 +81,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696662
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
 http://191.97.55.241:8000/play/a05s/index.m3u8
 #EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
-https://m3u-editor.com/serve/kiwitvlite/765696612
+http://191.98.171.198:4000/play/a00b/index.m3u8
 #EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
 http://191.97.55.241:8000/play/a05f/index.m3u8
 #EXTINF: -1 tvg-id="315dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Infantil", DISNEY JR
@@ -123,17 +125,17 @@ http://191.97.55.241:8000/play/a05g/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Cultura", HISTORY
 http://191.97.55.241:8000/play/a06o/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png" group-title="Cultura", H2
-https://m3u-editor.com/serve/kiwitvlite/765696598
+http://190.60.37.67:8015/play/a08r/index.m3u8
 #EXTINF: -1 tvg-id="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
 http://191.97.55.241:8000/play/a03k/index.m3u8
 #EXTINF: -1 tvg-id="730dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
-http://191.97.56.146:8000/play/a06d/index.m3u8
+http://191.98.171.198:4000/play/a003/index.m3u8
 #EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Cultura", ANIMAL PLANET
-http://191.97.56.146:8000/play/a061/index.m3u8
-#EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura", LOVE NATURE
+http://191.98.171.198:4000/play/a04d/index.m3u8
+#EXTINF: -1 tvg-logo="https://mms.busineshttp://191.98.171.198:4000/play/a04d/index.m3u8swire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura", LOVE NATURE
 http://177.234.230.226:8010/play/a03o/index.m3u8
 #EXTINF: -1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="Noticias", CNN en Español
-http://190.60.37.69:8015/play/a00z/index.m3u8
+http://191.97.49.194:8000/play/a00n/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="Noticias", RT NOTICIAS
 https://m3u-editor.com/serve/kiwitvlite/765696669
 #EXTINF: -1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="Noticias", Identidad TV
@@ -190,8 +192,8 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", Liga 1 MAX
-http://190.108.93.148:8000/play/a0ms/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS",TyC Sports
+http://191.98.171.198:4000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", Multipremier HD
 http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
