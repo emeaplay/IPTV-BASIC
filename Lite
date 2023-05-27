@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
 #EXTINF: -1 tvg-logo="https://img.freepik.com/vector-premium/dibujos-animados-retro-tv-plana_184560-240.jpg" group-title="Local",Bienvenido a Lista OTIPLAY
-https://raw.githubusercontent.com/emeaplay/KiwiIP/main/otiPLAY.mp4
+https://ia902603.us.archive.org/10/items/INTROoti/INTROoti.mp4
 #EXTINF: -1 tvg-id="192dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
