@@ -15,7 +15,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
 http://191.97.55.241:8000/play/a03u/index.m3u8 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
 http://191.97.55.241:8000/play/a03s/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="Local", RPP TV
