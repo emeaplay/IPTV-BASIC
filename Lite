@@ -75,11 +75,11 @@ http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF: -1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3
 http://177.234.230.226:8010/play/a007/index.m3u8
 #EXTINF: -1 tvg-id="624dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
-http://191.97.55.241:8000/play/a03t/index.m3u8
+http://45.228.232.204:16000/play/a07n/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
-https://m3u-editor.com/serve/kiwitvlite/765696662
+http://190.83.119.67:8000/play/a03f/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
-http://191.97.55.241:8000/play/a05s/index.m3u8
+http://190.83.119.67:8000/play/a03x/index.m3u8
 #EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
 http://191.98.171.198:4000/play/a00b/index.m3u8
 #EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil",DISNEY
