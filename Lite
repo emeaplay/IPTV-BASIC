@@ -7,43 +7,43 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
-http://191.97.55.241:8000/play/a03q/index.m3u8
+http://191.97.55.241:8000/play/a01p/index.m3u8
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
-http://191.97.55.241:8000/play/a03r/index.m3u8
+http://191.97.55.241:8000/play/a01q/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local",Exitosa
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
-http://191.97.55.241:8000/play/a03u/index.m3u8 
+http://191.97.55.241:8000/play/a01t/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
-http://191.97.55.241:8000/play/a03s/index.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="Local", RPP TV
-http://191.97.55.241:8000/play/a088/index.m3u8
+http://191.97.55.241:8000/play/a02k/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local",Canal N
-http://191.97.55.241:8000/play/a08f/index.m3u8
+http://191.97.55.241:8000/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
 http://191.98.171.198:4000/play/a017/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
-http://191.97.55.241:8000/play/a07f/index.m3u8
+http://191.97.55.241:8000/play/a02g/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
-http://191.97.55.241:8000/play/a06y/index.m3u8
+http://191.97.55.241:8000/play/a00e/index.m3u8
 #EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
-http://191.97.55.241:8000/play/a040/index.m3u8
+http://191.97.55.241:8000/play/a01z/index.m3u8
 #EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
-https://m3u-editor.com/serve/kiwitvlite/765696590
+http://191.97.55.241:8000/play/a015/index.m3u8
 #EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
 http://191.98.171.198:4000/play/a009/index.m3u8
 #EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
 http://191.98.171.198:4000/play/a01i/index.m3u8
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
-http://191.97.55.241:8000/play/a06q/index.m3u8
+http://160.20.165.246:8000/play/a01d/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
-https://m3u-editor.com/serve/kiwitvlite/765696594
+http://190.83.119.67:8000/play/a01u/index.m3u8
 #EXTINF: -1 tvg-id="508dtv.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
-http://191.97.55.241:8000/play/a02u/index.m3u8
+http://190.83.119.67:8000/play/a01q/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 http://177.234.230.226:8010/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC
@@ -53,7 +53,7 @@ http://191.98.171.198:4000/play/a01g/index.m3u8
 #EXTINF: -1 tvg-id="220dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Realidad", TRU TV
 http://190.83.119.67:8000/play/a012/index.m3u8
 #EXTINF: -1 tvg-id="216dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Realidad", TBS
-http://191.97.55.241:8000/play/a03m/index.m3u8
+http://190.83.119.67:8000/play/a017/index.m3u8
 #EXTINF: 1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg" group-title="Salud", MEDICOS TV
 https://m3u-editor.com/serve/kiwitvlite/765696607
 #EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="Salud", INTI
@@ -67,7 +67,7 @@ http://191.97.49.194:8000/play/a02r/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Liga1max.png/320px-Liga1max.png" group-title="Deportes",Liga 1 MAX
 http://51.222.110.182:8000/play/a00f
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
-http://191.97.49.194:8000/play/a02f/index.m3u8
+http://191.97.55.241:8000/play/a02b/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
 http://177.234.230.226:8010/play/a001/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes",ESPN 2
@@ -82,17 +82,17 @@ https://m3u-editor.com/serve/kiwitvlite/765696662
 http://191.97.55.241:8000/play/a05s/index.m3u8
 #EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
 http://191.98.171.198:4000/play/a00b/index.m3u8
-#EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
-http://191.97.55.241:8000/play/a05f/index.m3u8
-#EXTINF: -1 tvg-id="315dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Infantil", DISNEY JR
-http://191.97.55.241:8000/play/a02t/index.m3u8
-#EXTINF: -1 tvg-id="330dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/29.png" group-title="Infantil", DISCOVERY KIDS
+#EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil",DISNEY
+http://191.97.55.241:8000/play/a012/index.m3u8
+#EXTINF: -1 tvg-id="315dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Infantil",DISNEY JR
+http://190.83.119.67:8000/play/a010/index.m3u8
+#EXTINF: -1 tvg-id="330dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/29.png" group-title="Infantil",DISCOVERY KIDS
 http://191.97.55.241:8000/play/a02n/index.m3u8
-#EXTINF: -1 tvg-id="308dtv.ar"><tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Infantil", NICK
-http://191.97.55.241:8000/play/a06m/index.m3u8
-#EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil", TOONCAST
+#EXTINF: -1 tvg-id="308dtv.ar"><tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Infantil",NICK
+http://191.97.55.241:8000/play/a003/index.m3u8
+#EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil",TOONCAST
 http://181.189.243.254:8000/play/a0s3/index.m3u8
-#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica", HITS
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica",HITS 360
 https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/chunks.m3u8?
 #EXTINF: -1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Musica", Memorias TV
 https://m3u-editor.com/serve/kiwitvlite/765696619
@@ -107,13 +107,13 @@ https://m3u-editor.com/serve/kiwitvlite/765696629
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Variados", VE PLUS
 https://m3u-editor.com/serve/kiwitvlite/765696630
 #EXTINF: -1 tvg-id="227dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Variados", TLNovelas
-http://191.97.55.241:8000/play/a089/index.m3u8
+http://191.97.55.241:8000/play/a02m/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
-http://191.97.55.241:8000/play/a05p/index.m3u8
+http://45.228.232.204:16000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="Variados",Home Garden Latino
 http://186.148.184.163:8000/play/a04v
 #EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Variados",Distrito Comedia
-http://186.5.31.251:8000/play/a0d4/index.m3u8
+http://45.228.232.204:16000/play/a08t/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png" group-title="Variados",De Pelicula
@@ -121,13 +121,13 @@ http://51.222.110.182:8000/play/a00d
 #EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="Variados",Food Network
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/1484
 #EXTINF: -1 tvg-id="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery
-http://191.97.55.241:8000/play/a05g/index.m3u8
+http://190.83.119.67:8000/play/a041/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Cultura", HISTORY
-http://191.97.55.241:8000/play/a06o/index.m3u8
+http://190.83.119.67:8000/play/a01k/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png" group-title="Cultura", H2
-http://190.60.37.67:8015/play/a08r/index.m3u8
+http://190.83.119.67:8000/play/a02d/index.m3u8
 #EXTINF: -1 tvg-id="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
-http://191.97.55.241:8000/play/a03k/index.m3u8
+http://190.83.119.67:8000/play/a045/index.m3u8
 #EXTINF: -1 tvg-id="730dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
 http://191.98.171.198:4000/play/a003/index.m3u8
 #EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Cultura", ANIMAL PLANET
@@ -181,7 +181,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7f
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
-http://191.97.55.241:8000/play/a03y/index.m3u8
+http://190.83.119.67:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
 http://191.97.55.241:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
@@ -199,9 +199,9 @@ http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
-http://191.97.55.241:8000/play/a08g/index.m3u8
+http://190.83.119.67:8000/play/a02q/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="EXTRAS",Movistar PLUS
-http://191.97.55.241:8000/play/a07m/index.m3u8
+http://191.97.55.241:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="EXTRAS",Antena 3
 http://177.234.230.226:8010/play/a00l/index.m3u8
 
