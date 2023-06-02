@@ -65,7 +65,7 @@ https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes",GOLPERU / Peru Magico
 http://191.97.49.194:8000/play/a02r/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Liga1max.png/320px-Liga1max.png" group-title="Deportes",Liga 1 MAX
-http://51.222.110.182:8000/play/a00f
+http://51.222.110.182:8000/play/a00c
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
 http://191.97.55.241:8000/play/a02b/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
