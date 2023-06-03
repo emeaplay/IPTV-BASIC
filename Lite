@@ -51,7 +51,7 @@ http://191.98.171.198:4000/play/a01i/index.m3u8
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
 http://160.20.165.246:8000/play/a01d/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
-http://190.83.119.67:8000/play/a01u/index.m3u8
+http://177.234.230.226:8010/play/a03b/index.m3u8
 #EXTINF: -1 tvg-id="508dtv.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
 http://190.83.119.67:8000/play/a01q/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
