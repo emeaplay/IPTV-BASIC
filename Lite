@@ -25,7 +25,7 @@ http://191.97.55.241:8000/play/a02f/index.m3u8
 #EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
 http://191.98.171.198:4000/play/a017/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
-http://191.97.55.241:8000/play/a02g/index.m3u8
+http://187.102.208.109:50000/play/a02k/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-logo=" " group-title="Local",D Sports Peru
@@ -63,7 +63,7 @@ http://191.98.171.198:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
 http://190.83.119.67:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
-http://191.97.55.241:8000/play/a02p/index.m3u8
+http://191.97.55.241:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
 http://177.234.230.226:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden
@@ -77,7 +77,7 @@ http://179.43.82.250:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO Xtreme
 http://179.43.82.250:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Premium", TNT Series
-http://179.43.82.250:8000/play/a08k/index.m3u8
+http://187.102.208.109:50000/play/a00y/index.m3u8
 #EXTINF: -1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg" group-title="Deportes", Contacto Deportivo
 https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
@@ -273,6 +273,12 @@ https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftss
 #EXTINF:-1 tvg-ID="ext" tvg-name="Free TV Cine" tvg-logo="Logo N/A" group-title="RuntimeTV",My Padel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+#EXTINF:-1,Sexy Pack 1
+http://190.61.102.67:8000/play/a01a
+#EXTINF:-1,Sexy Pack 2
+http://191.97.55.241:8000/play/a02p/index.m3u8
+#EXTINF:-1,Sexy Pack 3
+http://191.97.55.241:8000/play/a02n/index.m3u8
 
 BLOQUE RADIOS
 #EXTINF:-1,Radio HIT FM
