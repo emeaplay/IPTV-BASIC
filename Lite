@@ -34,7 +34,7 @@ http://187.102.208.109:50000/play/a028/index.m3u8
 http://51.222.110.182:8000/play/a00c
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
-https://m3u-editor.com/serve/kiwitvlite/765696589
+http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="",Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
@@ -43,6 +43,12 @@ http://177.234.230.226:8010/play/a03e/index.m3u8
 http://191.97.49.192:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Studio Universal
 http://181.189.243.254:8000/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",Sony Movies
+http://181.189.243.254:8000/play/a0qc/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",A&E
+http://181.189.243.254:8000/play/a0q7/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",AMC
+http://181.189.243.254:8000/play/a0q8/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE
 http://177.234.230.226:8010/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png",CineMAX
@@ -63,6 +69,8 @@ http://177.234.230.226:8010/play/a001/index.m3u8
 http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
 http://177.234.230.226:8010/play/a007/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="",Fox Sports 3
+http://181.189.243.254:8000/play/a0t7/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg",TOONCAST
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png",HITS
@@ -77,7 +85,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://m3u-editor.com/serve/kiwitvlite/765696629
 #EXTINF:-1 group-title="Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png",VE PLUS
 https://m3u-editor.com/serve/kiwitvlite/765696630
-#EXTINF:-1 group-title="Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png",Home Garden Latino
+#EXTINF:-1 group-title="Variados" tvg-logo=",Home Garden Latino
 http://186.148.184.163:8000/play/a04v
 #EXTINF:-1 group-title="Variados" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
