@@ -7,7 +7,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 group-title="Local" tvg-logo="https://bestcableperu.com.pe/img/canales/15.png",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
-https://m3u-editor.com/serve/kiwitvlite/765696577
+http://191.98.171.198:4000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png",Exitosa
