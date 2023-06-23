@@ -88,7 +88,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696630
 #EXTINF:-1 group-title="Variados" tvg-logo=",Home Garden Latino
 http://186.148.184.163:8000/play/a04v
 #EXTINF:-1 group-title="Variados" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920",Univision
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+http://181.189.243.254:8000/play/a0v0/index.m3u8
 #EXTINF:-1 group-title="Variados" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png",De Pelicula
 http://51.222.110.182:8000/play/a00d
 #EXTINF:-1 group-title="Variados" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png",Food Network
