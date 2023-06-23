@@ -32,11 +32,17 @@ http://187.102.208.109:50000/play/a02n/index.m3u8
 http://187.102.208.109:50000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="",Liga 1 MAX
 http://51.222.110.182:8000/play/a00c
+#EXTINF:-1 group-title="Local" tvg-logo="",Gol Peru
+http://191.97.55.241:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="",Movistar Deportes
+http://191.97.55.241:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://181.189.243.254:8000/play/a0sk/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="",Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",Star Channel
+http://191.97.55.241:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
 http://177.234.230.226:8010/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",Universal
@@ -49,6 +55,12 @@ http://181.189.243.254:8000/play/a0qc/index.m3u8
 http://181.189.243.254:8000/play/a0q7/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",AMC
 http://181.189.243.254:8000/play/a0q8/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",Clover Channel
+http://191.97.55.241:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="",Cinecanal
+http://191.97.55.241:8000/play/a03k/index.m3u8
+
+
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE
 http://177.234.230.226:8010/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png",CineMAX
@@ -94,7 +106,7 @@ http://51.222.110.182:8000/play/a00d
 #EXTINF:-1 group-title="Variados" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png",Food Network
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/1484
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png",ID Discovery
-http://191.97.55.241:8000/play/a03k/index.m3u8
+
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
 http://177.234.230.226:8010/play/a03o/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT NOTICIAS
