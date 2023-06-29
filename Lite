@@ -56,7 +56,7 @@ http://181.189.243.254:8000/play/a0q2/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Sony Movies
 http://187.102.208.109:50000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",A&E
-http://181.189.243.254:8000/play/a0q7/index.m3u8
+http://191.97.55.241:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",AMC
 http://181.189.243.254:8000/play/a0q8/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Clover Channel
