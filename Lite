@@ -82,11 +82,13 @@ https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://bestcableperu.com.pe/img/canales/6.png",Best Sports
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
-http://177.234.230.226:8010/play/a001/index.m3u8
+http://186.3.76.238:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2
 http://177.234.230.226:8010/play/a006/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png",ESPN 3
-http://177.234.230.226:8010/play/a007/index.m3u8
+http://186.3.76.238:8000/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn4.png",ESPN 4
+http://186.3.76.238:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="",Fox Sports 3
 http://181.189.243.254:8000/play/a0t7/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg",TOONCAST
