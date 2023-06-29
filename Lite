@@ -38,9 +38,9 @@ http://191.97.55.241:8000/play/a045/index.m3u8
 http://191.97.55.241:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
-http://181.189.243.254:8000/play/a0sk/index.m3u8
+http://181.189.243.254:8000/play/a0s5/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="",Warner Channel
-http://181.189.243.254:8000/play/a0tk/index.m3u8
+http://181.189.243.254:8000/play/a0s6/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Star Channel
 http://191.97.55.241:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
