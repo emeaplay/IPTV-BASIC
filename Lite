@@ -52,7 +52,7 @@ http://177.234.230.226:8010/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",Universal
 http://191.97.49.192:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Studio Universal
-http://181.189.243.254:8000/play/a0q2/index.m3u8
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3083
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Sony Movies
 http://187.102.208.109:50000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",A&E
