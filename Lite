@@ -16,8 +16,7 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
-http://191.97.55.241:8000/play/a03s/index.m3u8
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Best TV" tvg-logo="Logo N/A" group-title="PERU",Best TV
 https://ca2.inka.net.pe/BesTv-0011200001/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VIVA TV
