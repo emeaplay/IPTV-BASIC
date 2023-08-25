@@ -48,7 +48,7 @@ http://191.97.55.241:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="",Warner Channel
 http://191.97.55.241:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="",Star Channel
-http://191.97.55.241:8000/play/a04a/index.m3u8
+http://191.97.55.241:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="Series" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
 http://177.234.230.226:8010/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",Universal
@@ -73,8 +73,8 @@ http://191.97.55.241:8000/play/a04q/index.m3u8
 http://177.234.230.226:8010/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png",Cinemax
 http://170.254.234.244:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Realidad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS
-http://191.97.55.241:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Realidad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TNT Novelas
+http://45.5.117.172:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Salud" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg",LifeTime
 http://177.53.153.21:8001/play/a05s/index.m3u8
 #EXTINF:-1 group-title="Salud" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png",INTI
@@ -82,7 +82,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696608
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",Contacto Deportivo
 https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://bestcableperu.com.pe/img/canales/6.png",Best Sports
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
 http://186.3.76.238:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2
@@ -121,16 +121,14 @@ http://51.222.110.182:8000/play/a00d
 
 #EXTINF:-1 group-title="Variados" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png",Food Network
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/1484
-
-#EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png",ID Discovery
-http://187.102.208.109:50000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png",Investigation discovery
+http://45.5.117.172:8000/play/a0ks/index.m3u8
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
 http://177.234.230.226:8010/play/a03o/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT NOTICIAS
 https://m3u-editor.com/serve/kiwitvlite/765696669
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png",Identidad TV
 https://m3u-editor.com/serve/kiwitvlite/765696668
-
 
 #EXTINF:-1 group-title="ViX" tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
