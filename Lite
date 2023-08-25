@@ -14,7 +14,7 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Local",TV Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local",ATV+ Noticias
-http://191.97.55.241:8000/play/a050/index.m3u8
+http://170.81.240.10:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="Local",ATV
 http://170.81.240.10:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Best TV" tvg-logo="Logo N/A" group-title="Local",Best TV
