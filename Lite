@@ -18,7 +18,7 @@ http://191.97.55.241:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="Local",ATV
 http://170.81.240.10:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Best TV" tvg-logo="Logo N/A" group-title="Local",Best TV
-https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",RBC Television
 https://ca2.inka.net.pe/belmonttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",Willax
