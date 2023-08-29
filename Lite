@@ -8,7 +8,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local",America TV
 http://191.97.49.197:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local",Panamericana
-https://cdn74.iblups.com/hls/ptv2.m3u8
+http://191.97.49.197:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Local",Exitosa
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Local",TV Peru
@@ -22,7 +22,7 @@ https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",RBC Television
 https://ca2.inka.net.pe/belmonttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",Willax
-http://51.222.110.182:8000/play/a00a
+http://191.97.60.193:10000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Local",Global
 http://177.53.153.21:8001/play/a010/index.m3u8
 #EXTINF:-1 group-title="Local",TV Peru Noticias
@@ -32,7 +32,7 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 #EXTINF:-1 group-title="Local",Canal N
 http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 #EXTINF:-1 group-title="Local",Liga 1 MAX
-http://51.222.110.182:8000/play/a00c
+http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Local",Gol Peru
 http://191.97.55.241:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="Local",Movistar Deportes
