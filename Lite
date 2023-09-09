@@ -252,3 +252,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 http://191.97.49.197:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Adultos",Venus
 http://45.5.117.172:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 group-title="Peliculas",La vida secreta de mis mascotas
+https://pc-13.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/1172990af285c123f297783f1a2e972e/EP.0.1.v1.1677387425.720.m3u8
+#EXTINF:-1 group-title="Peliculas",La vida secreta de mis mascotas 2
+https://pc-40.peliscdnmx.pro/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c9635a75588fb7b279a6438ba17aeba8/EP.0.1.v1.1677295132.720.m3u8
