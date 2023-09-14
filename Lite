@@ -22,7 +22,7 @@ https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",RBC Television
 https://ca2.inka.net.pe/belmonttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local",Willax
-http://191.97.60.193:10000/play/a02j/index.m3u8
+http://177.53.153.21:8001/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Local",Global
 http://177.53.153.21:8001/play/a010/index.m3u8
 #EXTINF:-1 group-title="Local",TV Peru Noticias
@@ -34,7 +34,7 @@ http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 #EXTINF:-1 group-title="Local",Liga 1 MAX
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Local",Gol Peru
-http://191.97.55.241:8000/play/a045/index.m3u8
+http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 group-title="Local",Movistar Deportes
 http://191.97.55.241:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="Local",La Tele
@@ -42,7 +42,7 @@ http://170.81.240.10:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Local",Fuego TV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 #EXTINF:-1 group-title="Local",VIVA TV
-https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
+http://177.53.153.21:8001/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Local",BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
@@ -173,7 +173,7 @@ http://191.97.49.197:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Infantil",Disney JR
 http://191.97.49.197:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Infantil",Lolly Kids
-http://191.97.55.241:8000/play/a047/index.m3u8
+http://177.53.153.21:8001/play/a042/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nick
 http://191.97.55.241:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nick Jr
@@ -195,13 +195,13 @@ http://191.97.55.241:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV Live
 http://191.97.55.241:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Musica",Telehit
-http://181.177.255.253:8000/play/a029/index.m3u8
+http://177.53.153.21:8001/play/a0b8/index.m3u8
 #EXTINF:-1 group-title="Cultura",Discovery
 http://191.97.49.197:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Cultura",History
 http://191.97.55.241:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="Cultura",History 2
-http://191.97.55.241:8000/play/a04g/index.m3u8
+http://177.53.153.21:8001/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura",Investigation Discovery
 http://45.5.117.172:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura",LOVE NATURE
