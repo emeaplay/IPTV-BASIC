@@ -1,588 +1,1301 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/dibujos-animados-retro-tv-plana_184560-240.jpg" group-title="Local",TV GRATIS
-https://ia902608.us.archive.org/21/items/intro-nuevo-otiplay/intro%20nuevo%20otiplay.mp4
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local",Latina
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local",America TV
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/facebook-reaction-like.png" group-title="Local",Like TV
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Local",Latina
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Local",Nativa
+https://ntv.pe/salida/nativa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Local",America
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local",Panamericana
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_panamericana_tv_2020_2.png" group-title="Local",Panamericana
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Local",Exitosa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="Local",Exitosa TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Local",TV Peru
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Local",TV Peru
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8
-#EXTINF:-1 group-title="Local",ATV +
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Local",ATV+ Noticias
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
-#EXTINF:-1 group-title="Local",ATV HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="Local",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",TeleLIMA
-https://ott1.hdlatam.tv/live/Telelima/playlist.m3u8
-#EXTINF:-1 group-title="Local",RBC Television
-https://ca2.inka.net.pe/belmonttv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local",Willax
+#EXTINF:-1 group-title="Local",TeleLima
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1 group-title="Local",Viva TV
+http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="Local",Willax
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/chunks.m3u8
 #EXTINF:-1 group-title="Local",Global
-http://177.53.153.21:8001/play/a010/index.m3u8
-#EXTINF:-1 group-title="Local",TV Peru Noticias
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
-#EXTINF:-1 group-title="Local",Canal N
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Trivu TV
-https://servilive.com:3244/live/trivutvlive.m3u8
-#EXTINF:-1 group-title="Local",Conecta2 TV
-ttps://live-zlr1.tv360.bitel.com.pe/bitel/conectados/chunks.m3u8
-#EXTINF:-1 group-title="Local",Gol Peru
-http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Local",Movistar Deportes
-http://191.97.55.241:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",USMP TV
-https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Local",BH TV
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Local",Justicia TV
+http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714330?e=2147483647&v=beta&t=J6qaUBfjLlSknU5C_0HxfJa7LFv0TVd6egnbLOuiRqk" group-title="Local",Conecta2 TV
+https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="Local",Ovacion TV
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Imagestributv.png" group-title="Local",Trivu TV
+https://www.chasquirouter.com/salida/trivu.m3u8
+#EXTINF:-1 group-title="Local",CAL TV
+http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1509_Peruvisual.png" group-title="Local",Peru Visual (Exclusivo)
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Onda Digital
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Ovacion TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w956411886.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Cablevision TV
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 group-title="Local",USIL TV
+https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Local",Millenial TV
+https://www.milenial.news/salida/sd/milenial.m3u8
+#EXTINF:-1 group-title="Local",CTV Peru
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 group-title="Local",Canal B
+https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
+#EXTINF:-1 group-title="Local",USMPTV Musica
+http://191.97.60.193:10000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Local",Viva TV
+http://191.97.60.193:10000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Local",USMP TV
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 group-title="Local",La Tele
+http://186.148.184.163:8000/play/a084
 #EXTINF:-1 group-title="Cine y Series",A&E
-http://191.97.55.241:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",AE Mundo
-http://191.97.49.195:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",AMC
-http://191.97.55.241:8000/play/a03l/index.m3u8
+http://168.181.122.234:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",AMC
+http://138.59.177.34:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",AXN
-http://191.97.49.195:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Canal Claro
-http://191.97.49.195:8000/play/a01l/index.m3u8
+http://138.59.177.34:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Canal Claro
+http://138.59.177.34:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cine Latino
+http://168.181.122.234:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",Cinecanal
-http://191.97.55.241:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cinecanal Oeste
-http://191.97.49.195:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cinemax
-http://191.97.49.195:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Claro Cinema
-http://191.97.49.195:8000/play/a027/index.m3u8
+http://168.181.122.234:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Claro Cinema
+http://138.59.177.34:8000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",Clover Channel
-http://191.97.55.241:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Cine y Series",DHE
-http://177.234.230.226:8010/play/a01c/index.m3u8
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",DHE
+http://168.181.122.234:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",FMH Family
+http://191.97.60.193:10000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",FMH Movies
+http://191.97.60.193:10000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",FX
-http://191.97.49.195:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",FX HD
-http://191.97.49.195:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Golden HD
-http://191.97.49.195:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Cine y Series",Golden Plus
+http://168.181.122.234:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Golden
+http://186.148.184.163:8000/play/a06z
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Golden Edge
+http://181.119.66.30:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Cine y Series",HBO
-http://191.97.55.241:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Golden Premiere
+http://168.181.122.234:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Golden Premiere 2
+http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",HBO 2 HD
-http://191.97.49.195:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",I-Sat
-http://191.97.49.195:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="Cine y Series",Multipremier HD
-http://160.20.165.246:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Paramount HD
-http://191.97.49.195:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Sony
-http://191.97.49.195:8000/play/a01z/index.m3u8
+http://168.181.122.234:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Family
+http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",HBO Oeste
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",MX Classic
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",MX Family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",MX OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",MX Prime
+https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Paramount Network
+http://138.59.177.34:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",Space
-http://191.97.49.195:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",STAR CHANNEL
-http://191.97.49.195:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",STAR CHANNEL HD
-http://191.97.49.195:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",STAR TVE HD
-http://191.97.49.195:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Studio Universal
-http://191.97.49.195:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Studio Universal HD
-http://191.97.49.195:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",SyFy
-http://191.97.49.195:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TCM
-http://191.97.49.195:8000/play/a00d/index.m3u8
+http://168.181.122.234:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Star Channel
+http://168.181.122.234:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Star TVE
+http://168.181.122.234:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Studio Universal
+http://138.59.177.34:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="Cine y Series",TNT
-http://191.97.49.195:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT Series HD
-http://191.97.49.195:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Universal
-http://191.97.49.195:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",UNIVERSAL CHANNEL HD
-http://191.97.49.195:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Warner
-http://191.97.49.195:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Variados",Canal Estrellas
-http://191.97.49.195:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Variados",Discovery H&H HD
-http://191.97.49.195:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Variados",E Entertainment
-http://191.97.49.195:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variados",Estrella TV
-https://m3u-editor.com/serve/kiwitvlite/765696629
-#EXTINF:-1 group-title="Variados",Food Network HD
-http://191.97.49.195:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Variados",HomeandHealth
-http://191.97.49.195:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="Variados",INTI
+http://138.59.177.34:8000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Universal Cinema
+http://168.181.122.234:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Universal Comedy
+http://138.59.177.34:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Universal Premiere
+http://138.59.177.34:8000/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Universal Reality
+http://138.59.177.34:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",USA Network
+http://168.181.122.234:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",VisionTV Cine
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",Warner
+http://168.181.122.234:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cine y Series",CINE ARGENTINO
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist.m3u8
+#EXTINF:-1 group-title="Variados",Canal DOS
+https://marine2.miplay.cl/dos/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",Clic
+http://177.53.153.20:8001/play/a091/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",Cocina TV
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Variados",Comedy Central
+http://177.53.153.20:8001/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",E! Entertainment
+http://168.181.122.234:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",EstrellaTV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png" group-title="Variados",FashionTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Variados",HGTV
+http://168.181.122.234:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Variados",Hola TV
+http://45.228.232.205:16000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",Home & Health
+http://138.59.177.34:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="Variados",INTI TV
 https://m3u-editor.com/serve/kiwitvlite/765696608
 #EXTINF:-1 group-title="Variados",Lifetime
-http://191.97.49.195:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Variados",RCN Novelas
-http://191.97.49.195:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Variados",Sun Channel HD
-http://191.97.49.195:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="Variados",TBS
-http://191.97.49.195:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Variados",Telemundo
-http://191.97.49.195:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Variados",TLC
-http://191.97.49.195:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Variados",Travelxp HD
-http://191.97.49.195:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Variados",TVE
-http://191.97.49.195:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Variados",VE PLUS
-https://m3u-editor.com/serve/kiwitvlite/765696630
-#EXTINF:-1 group-title="Variados",ViaX
-http://191.97.49.195:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Variados",Zona Latina
-http://191.97.49.195:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Cultura",Animal Planet
-http://191.97.49.195:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Channel
-http://191.97.49.195:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery ID
-http://191.97.49.195:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Turbo
-http://191.97.49.195:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery World HD
-http://191.97.49.195:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Cultura",History Channel
-http://191.97.49.195:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Cultura",Nat Geo
-http://191.97.49.195:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Cultura",Nat Geo HD
-http://191.97.49.195:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Niños",BabyFirst
-http://191.97.49.195:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Niños",Cartoon Network
-http://191.97.49.195:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Niños",Discovery Kids
-http://191.97.49.195:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Niños",Discovery Kids HD
-http://191.97.49.195:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Niños",Disney Channel
-http://191.97.49.195:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Niños",Disney Jr
-http://191.97.49.195:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Niños",Nick Jr
-http://191.97.49.195:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Niños",Nickelodeon
-http://191.97.49.195:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Cablenoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w901847662.m3u8
-#EXTINF:-1 group-title="Noticias",CNN Chile
-http://191.97.49.195:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNN Espanol
-http://191.97.49.195:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",DW Espanol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Estrella News
-https://i.mjh.nz/PlutoTV/60492e6d7f3f560007ab0f62-alt.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Noticias",France 24
-http://191.97.49.195:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="Noticias",Identidad TV
-https://m3u-editor.com/serve/kiwitvlite/765696668
-#EXTINF:-1 group-title="Noticias",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+http://138.59.177.34:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Variados",Mas Chic
+http://138.59.177.34:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",Mundo y Sabor
+https://marine2.miplay.cl/mundoysabor/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",N+ Media
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
+#EXTINF:-1 group-title="Variados",On Tour Channel
+https://marine2.miplay.cl/ontour/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png" group-title="Variados",Sun Channel
+http://177.53.153.20:8001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Variados",TLC - Travel and Living
+http://168.181.122.234:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",TruTV
+http://138.59.177.34:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Variados",TV Salud
+https://marine2.miplay.cl/tvsalud/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",BeIN Deportes
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",BeIN Sports Extra Android
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Sports
-http://191.97.49.195:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
-http://191.97.49.195:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://191.97.49.195:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 Latin
-http://191.97.49.195:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3
-http://191.97.49.195:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4
-http://191.97.49.195:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 HD
-http://191.97.49.195:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN EXTRA HD
-http://191.97.49.195:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN HD
-http://191.97.49.195:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
-http://191.97.49.195:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
-http://191.97.49.195:8000/play/a03u/index.m3u8
+http://161.132.108.75:50001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Sports 2
+http://181.175.41.170:8000/play/a0m9
+#EXTINF:-1 group-title="Deportes",Creo Sports
+https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",D Sports
+http://209.45.81.84:8000/play/a03d
+#EXTINF:-1 group-title="Deportes",D Sports 2
+http://161.132.243.192:50001/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Deportes",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN (MX)
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+http://45.5.117.182:8000/play/a0jp/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD (MX)
+http://168.181.122.234:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 (MX)
+http://45.5.117.182:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://168.181.122.234:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4 HD (MX)
+http://177.53.153.20:8001/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Extra
+http://167.250.222.35:16000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Deportes",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports 3
-http://191.97.49.195:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Deportes",GOLPERU HD
-http://191.97.49.195:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Deportes",GolTV HD
-http://191.97.49.195:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="Deportes",Movistar Deportes HD
-http://191.97.49.195:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="Deportes",TyC
-http://191.97.49.195:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Deportes",TyC Sports HD
-http://191.97.49.195:8000/play/a02q/index.m3u8
+http://167.250.222.35:16000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Deportes",Latin American Sports
+http://167.250.222.35:16000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Deportes",Liga 1 Max
+http://190.102.139.241:8900/play/a12f/index.m3u8
+#EXTINF:-1 group-title="Deportes",Liga 1 Max opc2
+http://177.53.153.20:8001/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/chunks.m3u8
+#EXTINF:-1 group-title="Deportes",Monterrico TV - JCP
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Deportes",My Padel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Deportes",Ovacion Deportes
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist.m3u8
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sky Sports UE
+http://45.228.234.173:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Deportes",Sport Xtremo
+https://marine2.miplay.cl/sportext/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TD+2 HD CR
+http://177.53.153.20:8001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Deportes",Telefe Deportes
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
+#EXTINF:-1 group-title="Deportes",Tigo Sports GT Vix
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Tigo Sports HD
+http://177.53.153.20:8001/play/a094/index.m3u8
+#EXTINF:-1 group-title="Deportes",Tigo Sports HN
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports CL
+http://190.102.139.241:8900/play/a0sx/index.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN
+http://45.189.148.24:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports
+http://190.102.139.241:8900/play/a0op/index.m3u8
+#EXTINF:-1 group-title="Cultura",Animal Planet
+http://168.181.122.234:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Cultura",Discovery HD
+http://45.5.117.182:8000/play/a0ju/index.m3u8
+#EXTINF:-1 group-title="Cultura",Discovery Theater HD
+http://45.5.117.182:8000/play/a0ia/index.m3u8
+#EXTINF:-1 group-title="Cultura",Discovery Turbo
+http://45.5.117.182:8000/play/a0iS/index.m3u8
+#EXTINF:-1 group-title="Cultura",Film & Arts
+http://138.59.177.34:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Cultura",Investigation Discovery
+http://168.181.122.234:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Cultura",Nat Geo
+http://168.181.122.234:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" group-title="Musica",Fitmaxx TV
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",FM HITS
+https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Hits 360
+https://scl.edge.grupoz.cl/transmision/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Karibena TV
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Musica",Memorias TV
 https://m3u-editor.com/serve/kiwitvlite/765696619
-#EXTINF:-1 group-title="Musica",MTV
-http://191.97.49.195:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Musica",MTV LIVE HD
-http://191.97.49.195:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="Musica",New Age
-http://191.97.49.195:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Musica",Sin Limites
-http://191.97.49.195:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Musica",Symphonic
-http://191.97.49.195:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Otros",ATV
-http://191.97.49.195:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Otros",America TV HD
-http://191.97.49.195:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Otros",America TV PY
-http://191.97.49.195:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Otros",AmericaTV
-http://191.97.49.195:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Otros",Enlace
-http://191.97.49.195:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Otros",Esne TV
-http://191.97.49.195:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Otros",Latina
-http://191.97.49.195:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Otros",Latina HD
-http://191.97.49.195:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Otros",Panamericana TV
-http://191.97.49.195:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Otros",TV Peru
-http://191.97.49.195:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Otros",Cinecanal HD
-http://191.97.49.195:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FfuliqvXoAEuTtS?format=png&name=240x240" group-title="Musica",Mimusica Popular
+http://160.20.165.246:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Musica",Mimusica Reggaeton
+http://160.20.165.246:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU" group-title="Musica",Mimusica Regional
+http://160.20.165.246:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Musica",Mimusica Salsa
+http://160.20.165.246:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Rumba TV
+http://181.119.66.30:8000/play/73/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Sin Limites
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/chunklist.m3u8
+#EXTINF:-1 group-title="Musica",TLR Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",TV San Borja
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="Musica",Urbano TV
+https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Vision Musica
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",VM Musica
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Musica",Flou CaribeÃ±o
+https://amg01768-flou-floucaribe-canelatv-cgucr.amagi.tv/playlist/amg01768-flou-floucaribe-canelatv/cb513f16657060909bcf2160d0d319dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce06750a57597edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42b85b20067cddf359bd150393d148d2602c88aac3623f6f4e599d0c0cb3f15df1e2e95f14de71a0b0491d882717e5d05f9bd21bbbd182539e178e77a476cda8d8b302eb4fb4bb51cc34a0593c562b699c8439a0dd5ca2df891b41f61306676e98623ef184231289555754b8dec6ba77f610cff345cb0065fd681028f5b34f900e4927c36ed935885c87ba2d9c64110e06ade0b283f8347c9e6ef2a1e8da7c465c977e716ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3d89fba1cc86c8ae6e4883147796606298f49edcf3e8c678e2ee8863809686068e1da59cd8ddc1e17674c8d8f17943013abd48686905f6b982e4b14b82e891b366dca357e75aa78aacd723fdf5479ef5c0af256318f55eff87b87c1f5d1466dfb8fbd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6949ca799c3befd2d80f4d9986c1b7e7262f65382/199/1280x720_2657019/index.m3u8
+#EXTINF:-1 group-title="NiÃ±os",Baby TV
+http://168.181.122.234:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="NiÃ±os",BabyTV International
+https://s99.dr691652.repl.co/tv507/dish_transco-bym3ukodi.php?ch-name=Baby_Tv&f=.m3u8
+#EXTINF:-1 group-title="NiÃ±os",Cartoon Network
+http://138.59.177.34:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="NiÃ±os",Discovery Kids
+http://138.59.177.34:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="NiÃ±os",Disney Channel
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="NiÃ±os",Disney JR
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="NiÃ±os",Nick JR
+http://168.181.122.234:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="NiÃ±os",Nickelodeon
+http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="NiÃ±os",NovaKids TV
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="NiÃ±os",Anime Zone
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+#EXTINF:-1 group-title="Novelas",Corazon HD
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Novelas",Kanal D Drama Vive
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Novelas",Las Estrellas
+http://138.59.177.34:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Novelas",Pasiones
+http://38.43.150.121:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Novelas",RCN Novelas
+http://138.59.177.34:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Novelas",TL Novelas
+http://186.148.184.163:8000/play/a05e
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Novelas",TNT Novelas
+http://138.59.177.34:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",BBC World
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",CNN en espanol
+http://168.181.122.234:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Espanol OTT
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",France 24
+https://marine2.miplay.cl/france24/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w447023431.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",RT Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Weather Channel
+https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Retro",Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Retro",Mi TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 group-title="Retro",Old Music
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1 group-title="Retro",RetroKids
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Retro",Retroplus
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Retro",Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Retro",TELERED
+https://video20.klm99.com:3558/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Retro",TeleSistema
+https://video20.klm99.com:3621/hybrid/play.m3u8
+#EXTINF:-1 group-title="Retro",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Ben 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 group-title="24/7",Bob Esponja
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 group-title="24/7",Cinecartoon
+https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist_w2027899740.m3u8
+#EXTINF:-1 group-title="24/7",Durmiendo con mi Jefe
+https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7",El Chavo del 8
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 group-title="24/7",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Los Picapiedra
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Malcolm de en medio
+http://51.159.104.29:8080/malcom/index.m3u8
+#EXTINF:-1 group-title="24/7",Mr Bean 24H
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 group-title="24/7",Peppa Pig Channel
+http://51.159.104.29:8080/pepapig/index.m3u8
+#EXTINF:-1 group-title="24/7",SuperCampeones
+http://51.159.104.29:8080/Supercampeones/index.m3u8
+#EXTINF:-1 group-title="24/7",The Breaking Bad
+http://51.159.104.29:8080/BREAKINGBAD/index.m3u8
+#EXTINF:-1 group-title="24/7",The Walking Dead 24H
+http://51.159.104.29:8080/THEWALKINGDEAD/index.m3u8
+#EXTINF:-1 group-title="Religion",3ABN
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+#EXTINF:-1 group-title="Religion",Aliento Vision
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",CBN
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Extrema TV
+https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 group-title="Religion",Movie FE
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",TV Familia
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 group-title="Religion",Logos TV
+https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",Family Channel
+https://cp.panelchs.com:1936/8012/8012/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Religion",Television Consciente
+https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Religion",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist.m3u8
+#EXTINF:-1 group-title="+PERU",Antares RTV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="+PERU",Antena UNO (Yunguyo)
+https://servilive.com:3281/live/antenaunotvlive.m3u8
+#EXTINF:-1 group-title="+PERU",ATV Sur (Arequipa)
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
+#EXTINF:-1 group-title="+PERU",Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="+PERU",Canal 8 (Catacaos)
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="+PERU",Creo TV (Lima)
+https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",Cultura 24 TV
+https://cloud.live.opencaster.com/multi_web/play_480.m3u8
+#EXTINF:-1 group-title="+PERU",DMJ (Bagua)
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist.m3u8
+#EXTINF:-1 group-title="+PERU",Doble C (Chupaca)
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 group-title="+PERU",Genios TV (Moyobamba)
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",Nacional Peru TV
+https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
+#EXTINF:-1 group-title="+PERU",NorSelva
+https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",Palmeras TV (Piura)
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
+#EXTINF:-1 group-title="+PERU",Peru Channel
+https://a.cdni.live/peruchanel/peruchanel/chunklist.m3u8
+#EXTINF:-1 group-title="+PERU",Peruanisima TV
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist.m3u8
+#EXTINF:-1 group-title="+PERU",Piura TV (Piura)
+https://ott1.hdlatam.tv/live/SRT_PiuraTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",RCR TV
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",Region TV ( Callao)
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 group-title="+PERU",SOL TV (Trujillo)
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 group-title="+PERU",SuperCanal (Moyobamba)
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 group-title="+PERU",Telecolor (Junin)
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="+PERU",Tropical TV
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="+PERU",TurboMixTV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="+PERU",TV Amazonas
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="+PERU",TV en LINEA (Cusco)
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 group-title="+PERU",Unitel TV (Huancayo)
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="+PERU",Vamisa TV (Lima)
+https://inliveserver.com:1936/10044/10044/chunklist.m3u8
+#EXTINF:-1 group-title="+PERU",Via Altomayo (Moyobamba)
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="+PERU",VIA Television (Iquitos)
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+#EXTINF:-1 group-title="+PERU",Vinilos TV
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8?
+#EXTINF:-1 group-title="AMERICA",ARG - Canal 5 Del Pueblo  | Ar
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - CNAR Deportes
+https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/chunklist.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - CNAR Noticias
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/chunklist_w1920899326.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - El Nueve
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - LatinaTV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Magic Kids
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - MAS Fm
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Multivision
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Multivision HD
+https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - NET TV Internacional | Ar
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?
+#EXTINF:-1 group-title="AMERICA",ARG - Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Radiocanal San Francisco
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Tele Estrella
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Telediario
+https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Terramia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - TV Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="AMERICA",ARG - Variedtv
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ARG - VER TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",BOL - Ayni TV
+http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",BOL - Bolivision
+https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - MEGA
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - RED Ad Venir Internacional
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - TeleEstrella
+https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
+#EXTINF:-1 group-title="AMERICA",BOL - TV Latina
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Alternativa TV | Cl
+https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - America TV Chile
+https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Antofagasta TV 2 | Cl
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Atacama Noticias TV | Cl
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Atacama TV | Cl
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Canal 13
+http://177.53.153.20:8001/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Canal 13 Entretencion
+https://daiconnect.com/live/hls/tvup/tvfy-13entretencion/4b7de05356ec5e1f2098370f9b909817/.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Canal 13 Cultura
+https://daiconnect.com/live/hls/tvup/tvfy-13cultura/3c662f91a1d2f1a9f6ff10e9674d57ca/.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Chilevision
+http://177.53.153.20:8001/play/a027/index.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Clicktv
+https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - CNN Chile
+http://177.53.153.20:8001/play/a01q/index.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Concepcion TV | Cl
+http://live.mundogo.cl/mundo/concepciontv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Ekiz TV | Cl
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Enfoque Digital TV | Cl
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Iquique TV
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - ITV Patagonia
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - LA Popular TV
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Molina TV | Cl
+http://live.mundogo.cl/mundo/Molinatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Origen TV | Cl
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Recuerdos Retro Radio TV | Cl
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Televida HD | Cl
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - Tevex
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - TV Costa
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - TV Mas+ | Cl
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w75822369.m3u8
+#EXTINF:-1 group-title="AMERICA",CHI - U Chile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - U Los Lagos | Cl
+http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Uestv | Cl
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Universidad Autonoma TV
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - Vision Plus TV | Cl
+https://v2.tustreaming.cl/visionplustv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - VP Television | Cl
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",CHI - VTV
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",COL - Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - CableNoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Cali TV Opcion 2
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Canal Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Cosmovision
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="AMERICA",COL - NTN24
+http://160.20.165.246:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="AMERICA",COL - RCN Internacional
+http://160.20.165.246:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="AMERICA",COL - RCN Plus
+https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",COL - TV Penol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",CRI - Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",CRI - TeleUNO
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",ECU - Asomavision
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - Ecuador TV
+https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - Ecuavisa
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - Gamavision
+http://160.20.165.246:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - Hechos Ecuador
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - RTS
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC2/chunks.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - Teleamazonas
+http://160.20.165.246:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="AMERICA",ECU - TVC Televicentro
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/TVCEC/TVCEC1/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="AMERICA",ELS - Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ELS - Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",ELS - TUTV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - 15tv Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - AZ Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 group-title="AMERICA",MEX - Azteca Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Canal 4 Saltillo | Mx
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - Clic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 group-title="AMERICA",MEX - Conecta TV
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="AMERICA",MEX - Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Jalisco TV | Mx
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - Las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Multimedios
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Presumiendo Mexico | Mx
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - Radio y Television de Veracruz (RTV)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Televisa Guadalajara
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - Touristik Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - TV Lobo | Mx
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+#EXTINF:-1 group-title="AMERICA",MEX - TVP Culiacan | Mx
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - TVP Los Mochis | Mx
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - TVP Mazatlan | Mx
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",MEX - UNI Morelos
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",PAR - Dismar TV
+http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",PAR - Estacion Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",PAR - RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",PAR - Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="AMERICA",USA - ESTRELLA TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",VEN - Esports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 group-title="AMERICA",VEN - Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Planeta Movie
+https://tls-cl.cdnz.cl/movie/live/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Planeta Family
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",SuperCine
+https://stmv1.cnarlatam.com/supercine/supercine/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Comedia
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Familia
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Hindu
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema infantil
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Latino
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/chunklist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg" group-title="Stingray Music",MÃºsica Libre
+https://cloudvideo.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="Stingray Music",Stingray Music Classica
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png" group-title="Stingray Music",Stingray Music Djazz
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="RADIOS",Radio Tropical
+https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
+#EXTINF:-1 group-title="Tropical Music",Cultura Musica
+https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/chunklist.m3u8
+#EXTINF:-1 group-title="Tropical Music",Tropical Cumbia Colombiana
+https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/chunklist.m3u8
+#EXTINF:-1 group-title="Tropical Music",Tropical Media TV
+https://srv2.tropicalmoonmedia.com/eventostv/eventostv/chunklist.m3u8
+#EXTINF:-1 group-title="Tropical Music",Tropical Salsa
+https://srv.tropicalmoonmedia.com/musictv/musictv/chunklist.m3u8
+#EXTINF:-1 group-title="Tropical Music",Tropical Urbano
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/chunklist.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",101 dalmatas
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/19/07/a2d45381/a2d45381-36af-409e-b29a-99fb0213fcd9_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",3 dias para matar
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/08/18/09/9ee68a3b/9ee68a3b-7295-4aa9-8dd3-55622a1f61dc_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",50 sombras de Grey
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/16/e7a2d739/e7a2d739-5176-4f92-b158-ba395d2660a3_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Adultos jovenes
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/b6680068/b6680068-50de-4833-aab5-6236b4eec793_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Amigos
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/13/15/4efcede5/4efcede5-551f-4073-82c2-6a9068f2c61e_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Atrapen al gringo
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/13/44425d59/44425d59-b226-41ab-b6c0-d81ca08aa704_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Bastardos sin gloria
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/19/23/23bb549f/23bb549f-8d72-4df3-be7b-3267caa5bb3a_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Bumblebee
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/06/a7799f6f/a7799f6f-13e6-46eb-a52b-0d6ea6f0ecfb_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Caracortada
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/20/00/6ca240da/6ca240da-80ca-4af2-a2ee-b9881d079bb8_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Carrie
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/05/05/71fda2eb/71fda2eb-d313-4a72-834d-5d9f8a452f68_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Casi un gigolo
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/07/82da4a6d/82da4a6d-91f9-4bfc-a1c9-990249fe67e7_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Cuestion de tiempo
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/20/14/916abbba/916abbba-e65e-4475-99a5-722c13a4197d_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Diarios de motocicleta
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/05/e32731f9/e32731f9-be23-4dc9-bf09-b5fe3fac7350_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Educando a Helen
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/08651467/08651467-497e-4cda-9258-b712f8c64f9a_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El apartamento
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/02/8ff3414d/8ff3414d-0033-4967-b07b-f60dbdbe8507_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El buen pastor
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/01/623693ab/623693ab-5032-4c3e-bcc8-89da0b5ae8e7_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El Capital humano
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/21/677d78bd/677d78bd-49d3-44a4-af5e-0adf35daf561_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El gran golpe
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/11/35ac30eb/35ac30eb-d596-435f-bd56-dd8f3994c554_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El guardian del zoologico
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/12/cf64e68e/cf64e68e-459c-422a-a0b7-6690dc95f001_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El hobbit: La batalla de los 5 ejercitos
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/23/ed19da8b/ed19da8b-9f64-4a96-b865-c8a3fad020a0_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El Lider
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/d11ccc61/d11ccc61-8dae-4c0f-9887-95bd06d03556_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El Orfanato
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/16/299610ae/299610ae-d520-496f-89c8-9f886dcf15ae_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El protector
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/20754dd7/20754dd7-32da-4805-beec-e81767a5617b_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El reino prohibido
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/06/b5521d1c/b5521d1c-919f-481d-93d7-65012a9220b8_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El rescate
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/18/5fa20e99/5fa20e99-f5c1-4066-86e7-6fda0d99b933_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",El sexto sentido
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/22/d02bd309/d02bd309-edf9-4b9d-afe4-a4ec3fdb870f_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Escritores de la libertad
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/10/eae8e1f3/eae8e1f3-df32-4325-8dc3-682a57ba5a9c_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Estacion Zombie
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/17/0719b776/0719b776-6427-4e0f-9226-c72f937a9198_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",ET el extraterrestre
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/12/06/91f302cf/91f302cf-b100-4c63-ab2c-06a80741960f_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Ex maquina
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/20/00/35a50686/35a50686-32ba-4d23-bb32-0cea1c32b881_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Frente a frente
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/00/267bf2dc/267bf2dc-883f-44ff-9942-12836414659b_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Hasta el ultimo hombre
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/18/d447320b/d447320b-9cbc-4f31-a656-b60b82c0a212_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Hombre al agua
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/15/05/32e3c6c6/32e3c6c6-81a1-429e-ad36-9f3fae76e54a_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Hulk
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/12/362fea48/362fea48-4f00-43a4-82d0-936e7e6ec3f5_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Inmortales
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/13/800d8335/800d8335-f086-47b5-ad01-21cc33328db2_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Jason Bourne
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/11/c1a19b3e/c1a19b3e-69da-4b3c-b96d-4cd113571086_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Jeepers Creepers
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/07/02/cb23577c/cb23577c-fac5-4733-ba04-5b6e9c3e6a4e_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",John Wick
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",La cosa
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/22/128b5f9e/128b5f9e-3030-4440-b9f6-5ceb9a3b5f9a_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",La despedida
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/10/d7a8b3c1/d7a8b3c1-8cd5-456f-a8ee-a5d4d1298204_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",La Duquesa
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/10/67cc1140/67cc1140-d1ee-4f9d-a58f-706649b2bba1_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",La pesadilla
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/18/6908b1dd/6908b1dd-538a-41f1-8dfb-d3a20d61c4b2_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",La provocacion
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/02/8a480507/8a480507-be96-4252-954a-d68479bab7ed_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Legalmente rubia
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/0ade4941/0ade4941-75f9-460e-9282-48c624324fa6_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Legendario
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/19/2bf98ae3/2bf98ae3-c873-426b-8eb8-c30302a3b2f7_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Los Croods
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/15/728da73c/728da73c-49e3-488a-81a4-53685a16b1c7_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Los indestructibles
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/15/0231fbee/0231fbee-9882-4d36-89e2-b31019946fa4_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Madagascar
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/e63181b0/e63181b0-ac9e-4172-9add-316405576244_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Memorias de Manhattan
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/03/99a58466/99a58466-5728-406e-8137-dece65d2cd26_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Mientras duermes
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/22/acb26866/acb26866-c7a1-461f-bbca-068f28a8ac78_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Mortadelo y filemon contra Jimmy el locuaz
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/23/05/917f4b98/917f4b98-65e3-424a-93cb-ee9a24140eb7_4_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Muerte en la montaÃ±a
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/11/f8d3ce94/f8d3ce94-9d9c-428c-bb7b-f6eece4ff768_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Notas perfectas
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/03/8605ae39/8605ae39-7718-4ca4-9fef-6f6752411369_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Oblivion: el tiempo del olvido
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/03/7b532d14/7b532d14-21ca-42f9-85ee-a0b8927ff6e2_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Operacion final
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/13/93b91693/93b91693-718f-4363-9b94-a64018ea0eef_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Orgullo y prejuicio
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/11/377a7923/377a7923-47b7-4d03-9bfb-a184b1d8d7fd_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Pecado original
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/09/20/02/f98e8f72/f98e8f72-8e17-41c0-9c0d-c35c3bc93432_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Peloton
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/21/12/79c609c9/79c609c9-27ec-4727-bc2b-116bd76265c5_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Perdidos en Tokio
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/11/86e2844c/86e2844c-1465-45b6-9235-1a49b0888a39_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",REC
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/05/da36a57f/da36a57f-10ef-4594-a8a1-4fa3c22ecd83_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",REC 2
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/07/09/b4968fe1/b4968fe1-2f11-4b28-84ef-5589b46229a9_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",RED
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/06/40cf7eec/40cf7eec-82aa-4aff-8dd2-2da625b4e958_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Scoop
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/04/5f189c3c/5f189c3c-7342-4167-be5f-27083a5da63d_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Se busca
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/13/236667db/236667db-e4ec-4124-b12d-441c3d003579_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Semper Fi
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/10/04/13/50eb343a/50eb343a-fdc5-41f5-be6f-eb7f506bb69d_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Senales
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/d34ca413/d34ca413-d0a0-4ba1-a1df-8f2e74720afb_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Shrek
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/bda1a53c/bda1a53c-496c-4f77-b31d-d777ca51a603_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Shrek 2
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/fcda810f/fcda810f-f299-42b3-8e1c-dd1aa5d27a11_4_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Siempre a tu lado
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/04/526c5a66/526c5a66-5f40-4f18-a567-275cda2b9a66_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Siempre el mismo dia
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/05/b0d2b711/b0d2b711-5b2a-4b99-b90a-bf4e9f62baa8_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Silencio
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/21/6c89e404/6c89e404-f97f-4de3-b7b9-3c546022b43b_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Sin tregua
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/21/12/188cd599/188cd599-b318-424b-9012-4fca8dfc69a0_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Sing
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/19/06/187e6184/187e6184-452b-4ae9-b562-adfa7d36b800_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Sr Nadie
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/27fb6731/27fb6731-d514-4fa2-b49e-c6ab0cd19674_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Tenemos que hablar de Kevin
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/03/56a79b2f/56a79b2f-9905-4efd-8d6a-0768cbb83023_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Terremoto: la falla de San AndrÃ©s
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/8547b1ff/8547b1ff-e43c-4dfa-810d-c073d540b0a5_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Tiempo LÃ­mite
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/15/809af16e/809af16e-daa4-467b-8b8a-c4e10902c853_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Un lugar en silencio
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/10/283afed2/283afed2-bd3d-4347-b27e-25ae8a6a9d3b_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Una cita para el verano
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/20/3a28ac51/3a28ac51-7a31-4a20-8678-46f56801a703_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Una Pareja dispareja
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/09/14/04/cde0e82b/cde0e82b-8767-461d-8ed9-5be6bfae376e_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Verdades que matan
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/00/6332ab7f/6332ab7f-b353-4c32-abaa-ede4d37d9306_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/21/23/9495f713/9495f713-3c92-4eb3-9a14-911ef446054b_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro 2
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/00/34ca46f3/34ca46f3-7df3-4774-b9a0-d2dc085f4b7e_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro 3
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/02/a52257bb/a52257bb-c020-4819-ae8d-7247e029866c_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - HD",X
+https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/22/40613a23/40613a23-1390-453d-8874-7afd908650de_5_.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Acusado (2023)
+https://server13.mxcdnab.online/newhls/815b0a4ee3c390e0dff2dcd096915176/EP.0.2.v0.1695593596.1080.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Air (2023)
+http://208.88.245.85/nuevo/air.2023.dual.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Anna Nicolle
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Babylon 5 The Road Home (2023)
+https://server11.mxcdnab.online/newhls/991a2c9129e3638b887755f93865fab8/EP.0.2.v0.1691754580.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Big Mack gangsters
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg" group-title="Peliculas - 2023",Blanco y sangre azul (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171471.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",El rey mono (2023) NETFLIX
+https://server15.mxcdnab.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1692440189.1080.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",El Ãºltimo vagon
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Ellas quieren mÃ¡s
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Flash HD (2023)
+https://server22.mxcdnab.online/newhls/4cf16a17bdab9f6b5ac3043ec5498c41/EP.0.2.v1.1691769784.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Hablame (2023)
+https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v2.1694513565.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Hablame (2023)
+https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v3.1696768787.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Hasta la madre
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Hijos de perra (2023)
+https://server11.mxcdnab.online/newhls/43fc5ecf6af5c8a5bfa9de22a3d7b4ac/EP.0.2.v3.1694512577.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",I love my Dad (2023)
+https://server21.mxcdnab.online/newhls/c566e74e47a8a466851dac681464f05c/EP.0.1.v0.1697412286.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Indiana Jones 5 (2023)
+http://208.88.245.85/nuevo/indianajones5.latino.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",La Monja 2 TS (2023)
+https://server26.mxcdnab.online/newhls/2dcf71c725f003d389c0ea23b27a0af4/EP.0.2.v1.1694320395.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",La princesa cisne
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Los indestructibles 4 (2023)
+https://server21.mxcdnab.online/newhls/8d6e2c4883fbcf5b172d0b4804bf6a7a/EP.0.2.v1.1695472293.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Lost in the Stars (2023)
+https://server12.mxcdnab.online/newhls/08f6a71db3ae9ba6a2b18916e700f4a5/EP.0.2.v1.1697468309.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Miniespias: Armagedon (2023)
+https://server27.mxcdnab.online/newhls/189f63fa9397116c8477af21f8871d0c/EP.0.2.v0.1695473308.1080.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Nada quÃ© ver
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Nadie podra ayudarte (2023)
+https://server12.mxcdnab.online/newhls/30f97cce15c0002aa7a186f9bd594802/EP.0.1.v1.1695564185.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNc18dv3Dd5lZQGgbP9GzK35P4.jpg" group-title="Peliculas - 2023",Nadie te salvarÃ¡ (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176796.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg" group-title="Peliculas - 2023",Ninja Turtles: Caos mutante (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176697.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",No estas invitada (2023) NETFLIX
+https://server15.mxcdnab.online/newhls/5dffdb7d860c3253b06dd70089f598cb/EP.0.2.v0.1693175902.1080.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg" group-title="Peliculas - 2023",No tengas miedo (Cobweb) (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171472.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="Peliculas - 2023",Noches de verano en TaipÃ©i (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173909.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fa9XrBaZugEmzelX8r9az9zaje.jpg" group-title="Peliculas - 2023",Nowhere (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177469.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j7w8X4cE7rC3Ri2j46Lllkj4Cy.jpg" group-title="Peliculas - 2023",Once Upon a Crime (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1175829.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="Peliculas - 2023",One Day as a Lion (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1174216.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg" group-title="Peliculas - 2023",OperaciÃ³n Kandahar - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1165628.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg" group-title="Peliculas - 2023",Past Lives (Vidas pasadas) (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178781.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjTI6czy62GCsoI7G7fKghSrH2x.jpg" group-title="Peliculas - 2023",Perpetrator (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1175172.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWa89Rr95zFYqTKVfDPKpjrofsM.jpg" group-title="Peliculas - 2023",Pesadilla americana (2022)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1172386.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Peter Pan y Wendy (2023)
+http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",PosesiÃ³n infernal: El despertar (2023)
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Power Rangers: Ayer -  hoy y siempre (2023)
+http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Peliculas - 2023",Proyecto Extraccion - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1169831.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Pura Quimica: The Story of Elemental (2023)
+https://server19.mxcdnab.online/newhls/a2e3a74418bc67371d1d336678d94b2d/EP.0.0.v0.1695467353.1080.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg" group-title="Peliculas - 2023",Quicksand (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171401.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Quieres ser mi hijo (2023)
+https://server18.mxcdnab.online/newhls/4a1babf42d5158547129a456447c8cb9/EP.0.2.v0.1695469201.720.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Quiero tu vida (2023)
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="Peliculas - 2023",Rapidos y Furiosos  10 - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1165148.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8dQwCNtEEfeYpDA0LJDBiJ8M2e.jpg" group-title="Peliculas - 2023",Reptiles (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177470.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg" group-title="Peliculas - 2023",Retribution (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176116.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59PHpiaLvVsCriuRzW8aftRoO5D.jpg" group-title="Peliculas - 2023",Rey de asesinos (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyaS0VivKaht856D345S2MAea3A.jpg" group-title="Peliculas - 2023",Rimini (2022)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173292.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Rock dog 3
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2UhXsV5W2IlVdCRSxtK7hNa83s.jpg" group-title="Peliculas - 2023",Rotting in the Sun (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176175.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",RÃ¡pidos y furiosos 10
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8XJCvxuN6BJ3dKbxyjrwDbR1M.jpg" group-title="Peliculas - 2023",Sangrientos diecisÃ©is (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178222.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",SAW X (2023)
+https://server12.mxcdnab.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.2.v0.1695980810.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg" group-title="Peliculas - 2023",Sentinelle (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1175268.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d94Phfk64vNnt8Rp5TyHNoQlGG.jpg" group-title="Peliculas - 2023",Shortcomings (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178975.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcd5TJwXLWeQ2Dn0aRxI8OJIIxK.jpg" group-title="Peliculas - 2023",Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177659.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Soltera codiciada 2 (2023) NETFLIX
+https://server14.mxcdnab.online/newhls/4aa81686b4772484edb1d3650f7274b3/EP.0.2.v0.1695594408.1080.m3u8
+#EXTINF:-1 group-title="Peliculas - 2023",Sombras de un crimen
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg" group-title="Peliculas - 2023",Sospechoso X (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176693.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg" group-title="Peliculas - 2023",Sound of Freedom (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1175456.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybqAzHQcUn9TaGlZzvJxu59Vjry.jpg" group-title="Peliculas - 2023",Soundtrack Lado A (2022)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1172387.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" group-title="Peliculas - 2023",Spider-Man: Cruzando el multiverso (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1164244.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="Peliculas - 2023",Spy Kids: El armagedÃ³n (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176771.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="Peliculas - 2023",The Blackening (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLx1AWWn1hUCrWaH5QfOxI6Hh7.jpg" group-title="Peliculas - 2023",The Boogeyman (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173906.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HkYZO13NtTNUnu087b3NFbja1l.jpg" group-title="Peliculas - 2023",The Burial (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178976.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siO8SNMEuyo25jHO2dqQxY4gWxZ.jpg" group-title="Peliculas - 2023",The Covenant (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1166751.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anAg7fgpOmQQlgRbtjiJqoDRzMU.jpg" group-title="Peliculas - 2023",The Dive (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173483.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8L3Kb4C7h1g8L1I3OP5aUWHHMRG.jpg" group-title="Peliculas - 2023",The Immaculate Room (2022)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178360.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN6AKmTX4E5F7mLT4c6Zia9MKkR.jpg" group-title="Peliculas - 2023",The List: Rienda suelta (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1172660.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",The Mistress (2023)
+https://server07.mxcdnab.online/newhls/30b0613af1140014f05e8c48a9184cf0/EP.0.2.v3.1692437340.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg" group-title="Peliculas - 2023",Theater Camp (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1175887.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Tortugas Ninja: Caos Mutante (2023)
+https://server22.mxcdnab.online/newhls/4f5a65cb683a0468a25bdd7b1c0af3cc/EP.0.2.v1.1691940187.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96UfwAPXozsoYYFCEcUNhSBVntV.jpg" group-title="Peliculas - 2023",Trap Jazz (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173200.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCcc6pc7PLSoIVdKkU6QzkEIIki.jpg" group-title="Peliculas - 2023",Tu Jhooti
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1168654.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSMW4FTD7pZr1t1oqG18NulZMQz.jpg" group-title="Peliculas - 2023",Un Blanco Facil (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1172375.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPl1p4oIWlZgA0fk6XsDuhQcia.jpg" group-title="Peliculas - 2023",Un guardabosque (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1172388.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egdZEgMhqFsxezztDlDqch5TjVM.jpg" group-title="Peliculas - 2023",Un lugar por el que luchar - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1168182.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL5cbrF1ONnDLC2UDOoVYRS6TUy.jpg" group-title="Peliculas - 2023",Una buena persona (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1169620.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",Une actrice royale (2023)
+https://server23.mxcdnab.online/newhls/5b4a5be717efbaa7283fc882838cce0c/EP.0.1.v0.1697388958.720.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg" group-title="Peliculas - 2023",V/H/S/85 (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178319.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn77J4IsECDqdPUALpLNFJzJxa.jpg" group-title="Peliculas - 2023",Vida adulta (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1174901.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqmlDMjHhDFXD1mitn9XYcNsvS1.jpg" group-title="Peliculas - 2023",Vive dentro (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178407.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg" group-title="Peliculas - 2023",Warhorse One - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1168191.mkv
+#EXTINF:-1 group-title="Peliculas - 2023",White & Royal Blue (2023)
+https://server21.mxcdnab.online/newhls/13d55bd95ca7c6fbe1ebe0bbb260d178/EP.0.2.v3.1691773810.1080.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg" group-title="Peliculas - 2023",Zoey 102 (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171470.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWspFZp0lfYeykiaPIabaGtiA6U.jpg" group-title="Peliculas - 2023",Â¡Scooby Doo! Â¡Y Krypto tambiÃ©n! (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177138.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg" group-title="Peliculas - Sagas",Alien vs. Predator - 2004
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171694.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title="Peliculas - Sagas",Alien: Covenant (2017)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095252.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg" group-title="Peliculas - Sagas",Aliens: El regreso (1986)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095254.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg" group-title="Peliculas - Sagas",AlienÂ³ (1992)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099201.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="Peliculas - Sagas",Cazafantasmas (2016)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1100656.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBlHh4BNiGYgfBTAFi8XONfseN8.jpg" group-title="Peliculas - Sagas",Cazafantasmas: MÃ¡s allÃ¡ (2021)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1118630.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="Peliculas - Sagas",El hobbit: La batalla de los cinco ejÃ©rcitos (2014)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095124.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg" group-title="Peliculas - Sagas",El hobbit: La desolaciÃ³n de Smaug (2013)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095125.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg" group-title="Peliculas - Sagas",El hobbit: Un viaje inesperado (2012)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095123.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg" group-title="Peliculas - Sagas",el octavo pasajero - 1979
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171693.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="Peliculas - Sagas",El seÃ±or de los anillos: El retorno del rey (2003)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095146.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="Peliculas - Sagas",El seÃ±or de los anillos: La comunidad del anillo (2001)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095145.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg" group-title="Peliculas - Sagas",El seÃ±or de los anillos: Las dos torres (2002)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg" group-title="Peliculas - Sagas",En busca del arca perdida - 1981
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171652.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVS44i49BswTvEuVCSe2p2o6df8.jpg" group-title="Peliculas - Sagas",Freddy contra Jason (2003)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099420.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Peliculas - Sagas",Harry Potter y el cÃ¡liz de fuego (2005)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095464.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="Peliculas - Sagas",Harry Potter y el prisionero de Azkaban (2004)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095467.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Peliculas - Sagas",Harry Potter y la cÃ¡mara secreta (2002)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095461.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Peliculas - Sagas",Harry Potter y la Orden del FÃ©nix (2007)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095466.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Peliculas - Sagas",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095462.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Peliculas - Sagas",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095463.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CcWnH9P1472GTRrOcCimhG1mNY.jpg" group-title="Peliculas - Sagas",Huida del planeta de los simios (1971)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095413.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg" group-title="Peliculas - Sagas",Indiana Jones y el dial del destino (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173907.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGG1Ljd0ULYHOegN8Qm3r1ndXhE.jpg" group-title="Peliculas - Sagas",Indiana Jones y el reino de la calavera de cristal - 2008
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1097668.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg" group-title="Peliculas - Sagas",Indiana Jones y el templo maldito (1984)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094818.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg" group-title="Peliculas - Sagas",Indiana Jones y la Ãºltima cruzada (1989)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094819.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg" group-title="Peliculas - Sagas",John Wick (Otro dÃ­a para matar) (2014)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095011.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg" group-title="Peliculas - Sagas",John Wick 4 - 2023
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1158539.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="Peliculas - Sagas",John Wick: CapÃ­tulo 3 - Parabellum (2019)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094861.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIa04BbZMO4pIZ1cvnYB4cZVakd.jpg" group-title="Peliculas - Sagas",John Wick: Pacto de sangre (2017)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094862.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="Peliculas - Sagas",Jurassic Park (Parque JurÃ¡sico) (1993)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1097688.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg" group-title="Peliculas - Sagas",Jurassic Park III (Parque JurÃ¡sico III) (2001)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095531.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="Peliculas - Sagas",Jurassic World: Dominion (2022)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1132001.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg" group-title="Peliculas - Sagas",Jurassic World: El reino caÃ­do (2018)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094872.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg" group-title="Peliculas - Sagas",la bruja y el armario (2005)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1097536.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYRiQwDBYZQ4DGfvODLPZfrrJ2M.jpg" group-title="Peliculas - Sagas",La conquista del planeta de los simios (1973)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095544.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tvu6MoAKEsITQeGhBUQq9BmCk1.jpg" group-title="Peliculas - Sagas",La nueva pesadilla de Wes Craven (1994)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099933.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg" group-title="Peliculas - Sagas",La saga CrepÃºsculo:  Amanecer - Parte 1 (2011)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1098563.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg" group-title="Peliculas - Sagas",La saga CrepÃºsculo:  Amanecer - Parte 2 (2012)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1098656.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="Peliculas - Sagas",La saga CrepÃºsculo: Eclipse (2010)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099113.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg" group-title="Peliculas - Sagas",La saga CrepÃºsculo: Luna nueva (2009)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099114.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4fPiaxCmMyRCo2VD155GXonXXg.jpg" group-title="Peliculas - Sagas",Las aventuras de Sharkboy y Lavagirl (2005)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1097905.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3X3ss0pEy1CntvxbgDYZD3XFa6.jpg" group-title="Peliculas - Sagas",Las crÃ³nicas de Narnia: El prÃ­ncipe Caspian (2008)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1176117.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8J5mCaIG1gZe58VIINRlcjhaqgn.jpg" group-title="Peliculas - Sagas",Las crÃ³nicas de Narnia: La travesÃ­a del viajero del alba (2010)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095554.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDsYxmjYfVCL8tio48T83pjRsNU.jpg" group-title="Peliculas - Sagas",Logan (2017)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095566.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" group-title="Peliculas - Sagas",Los Cazafantasmas (1984)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095442.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="Peliculas - Sagas",Los Cazafantasmas II (1989)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095443.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXzpZVP7t3lj5ezxKnvDn6hIf6.jpg" group-title="Peliculas - Sagas",Mad Max 2: El guerrero de la carretera (1981)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095583.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LSgFb5pU2hO0nbOTG803uWeXfn.jpg" group-title="Peliculas - Sagas",Mad Max: Salvajes de la autopista (1979)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095585.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjpM7NNfI5memp40mwqF1zxlLfz.jpg" group-title="Peliculas - Sagas",Matrix 4: Resurrecciones (2021)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1118314.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43C6dTRAk48V6xTlY1a1KMMK0uZ.jpg" group-title="Peliculas - Sagas",MisiÃ³n imposible 2 (2000)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1174025.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg" group-title="Peliculas - Sagas",MisiÃ³n imposible: Fallout (2018)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1093997.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg" group-title="Peliculas - Sagas",MisiÃ³n: Imposible - Sentencia mortal parte uno (2023)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1178321.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street (1984)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1174214.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street (El origen) (2010)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street 2: La venganza de Freddy (1985)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099217.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyKFg5KMD8QIzIn2Uc48nZAzbXi.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street 3: Los guerreros del sueÃ±o (1987)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099218.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street 4: El amo del sueÃ±o (1988)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg" group-title="Peliculas - Sagas",Pesadilla en Elm Street 5: El niÃ±o de los sueÃ±os (1989)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1099220.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg" group-title="Peliculas - Sagas",Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6) (1991)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1174215.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg" group-title="Peliculas - Sagas",Rambo - 1982
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094092.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg" group-title="Peliculas - Sagas",Rambo III - 1988
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171650.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" group-title="Peliculas - Sagas",Rambo: Acorralado Parte II - 1985
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1171651.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" group-title="Peliculas - Sagas",Rambo: Last Blood (2019)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094096.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldJzO9D40mCVeDaZQ1986t8rguZ.jpg" group-title="Peliculas - Sagas",Regreso al futuro (1985)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095966.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t27pmhEZoNFOQUXKJZICNfBoVeS.jpg" group-title="Peliculas - Sagas",Regreso al futuro II (1989)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095967.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Sd42pdvz0JcswvBuMlgAAsCJu.jpg" group-title="Peliculas - Sagas",Regreso al futuro III (1990)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095968.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnFqGOKi3oxiIuWffSrGGRPG9qu.jpg" group-title="Peliculas - Sagas",RoboCop (1987)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1173514.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDfjkGzvYR4fx93imv5ATFGtOJB.jpg" group-title="Peliculas - Sagas",Spy Kids (2001)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177161.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFSE5TGLIhjR49Pg0beMqaAPEtw.jpg" group-title="Peliculas - Sagas",Spy Kids 2: La isla de los sueÃ±os perdidos (2002)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177162.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dftDqaerDT6xAxfk5pRHZGHeEql.jpg" group-title="Peliculas - Sagas",Spy Kids 3D: Game Over (2003)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177163.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pUVarhiXfCu8amjmyadzJJJITi.jpg" group-title="Peliculas - Sagas",Spy Kids 4: Todo el tiempo del mundo (2011)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1177164.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p00sDPhEvzgr9J0mI2OtTWt0TtX.jpg" group-title="Peliculas - Sagas",Terminator (1984)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095900.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtgdiEwBDdyyMj241DURRCiD5se.jpg" group-title="Peliculas - Sagas",Terminator 2: el juicio final (1991)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095805.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg" group-title="Peliculas - Sagas",Terminator 3: La rebeliÃ³n de las mÃ¡quinas (2003)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095806.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg" group-title="Peliculas - Sagas",Terminator GÃ©nesis (2015)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095808.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg" group-title="Peliculas - Sagas",Terminator: destino oscuro (2019)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095807.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/864FCqlmdvQKyFPZwXicMIO8YkI.jpg" group-title="Peliculas - Sagas",Terminator: Salvation (2009)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095809.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg" group-title="Peliculas - Sagas",Wolverine: inmortal
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094296.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" group-title="Peliculas - Sagas",X-Men (2000)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094388.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JjzEdEjHCAd4VZCvgMz8M5ekFg.jpg" group-title="Peliculas - Sagas",X-Men 2 (2003)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095991.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg" group-title="Peliculas - Sagas",X-Men 3: La batalla final (2006)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094390.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ET4lACwrb97sdPzmIThieasOk.jpg" group-title="Peliculas - Sagas",X-Men: Apocalipsis (2016)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1095990.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" group-title="Peliculas - Sagas",X-Men: Dark FÃ©nix (2019)
+http://tv.nousiptv.com:8080/movie/maira3/31082021/1094387.mkv
 #EXTINF:-1 group-title="Adultos",Playboy
-http://191.97.49.197:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png" group-title="Pluto TV",Guía de canales
-https://i.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Estelar
-https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Acción
-https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Pluto Películas",Estrellas de Acción
-https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Adrenalina Freezone
-https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Comedia
-https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Drama
-https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Romance
-https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Suspenso
-https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Crimen
-https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Terror
-https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Sci-Fi
-https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Pluto Películas",Runtime
-https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Filmstream
-https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV  Nuestro Cine
-https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Clásico
-https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Pluto Películas",Pluto TV Cine Familia
-https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Pluto Series",CSI: Miami
-https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Pluto Series",NCIS
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto Series",Pluto TV Series
-https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Pluto Series",The Night Shift
-https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="Pluto Series",Schitt's Creek
-https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="Pluto Series",Younger
-https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" group-title="Pluto Series",Pluto TV Dramas Coreanos
-https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Pluto Series",Vive Kanal D Drama
-https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="Pluto Series",Pluto TV España
-https://i.mjh.nz/PlutoTV/5ffe17e3d765170007c3a4fe-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Pluto Series",Pluto TV Series Latinas
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Pluto Series",Comedy Central South Park
-https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="Pluto Series",Daria
-https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="Pluto Series",La Familia del Barrio
-https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Pluto Series",Pluto TV Humor
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Pluto Series",Comedy Central Pluto TV
-https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" group-title="Pluto Series",Backdoor
-https://i.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pluto Series",FailArmy
-https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Pluto Series",The Pet Collective
-https://i.mjh.nz/PlutoTV/5ebacbcae43a6d000787b88e-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Pluto Retro",Pluto TV Series Retro
-https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Pluto Retro",Hechizada
-https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" group-title="Pluto Retro",Los Ángeles de Charlie
-https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" group-title="Pluto Retro",Starsky & Hutch
-https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Pluto Retro",MacGyver
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" group-title="Pluto Retro",Beverly Hills 90210
-https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png" group-title="Pluto Retro",Loco Por Ti
-https://i.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Pluto Retro",Los Tres Chiflados
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="Pluto Retro",The Ed Sullivan Show
-https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Pluto Retro",Pluto TV Retro Cartoons
-https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Naturaleza
-https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Pluto Curiosidad",Paisajes por Stingray
-https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Animales
-https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Pluto Curiosidad",El Encantador de Perros
-https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Aventura
-https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Pluto Curiosidad",Ice Pilots
-https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Velocidad
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Pluto Curiosidad",Obsesión por los Autos
-https://i.mjh.nz/PlutoTV/64025592953da40008bf9238-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Pluto Curiosidad",Motorvision TV
-https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Vida Real
-https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Pluto Curiosidad",COPS
-https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Pluto Curiosidad",Dog el cazarrecompensas
-https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Pluto Curiosidad",Empeños a lo bestia
-https://i.mjh.nz/PlutoTV/5f23102d5e239d00074b092a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Mi Obsesión Favorita
-https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Pluto Curiosidad",Misterios Medicos
-https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Misterios
-https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Pluto Curiosidad",Historias de Ultratumba
-https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="Pluto Curiosidad",Archivos Extraterrestres
-https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="Pluto Curiosidad",Smithsonian Channel Pluto TV
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Historia
-https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Pluto Curiosidad",Pluto TV Ciencia
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Pluto Investigación",Pluto TV Investiga
-https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Pluto Investigación",Cazador de Homicidas
-https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Pluto Investigación",Los archivos del FBI
-https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Pluto Investigación",Archivos Forenses
-https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Pluto Investigación",The New Detectives
-https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Pluto Investigación",Misterios sin Resolver
-https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Pluto Kids",Nick Jr. Club
-https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Pluto Kids",Las Pistas de Blue
-https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Pluto Kids",Baby Shark TV
-https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Pluto Kids",Babyfirst
-https://i.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Pluto Kids",Pluto TV Junior
-https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Pluto Kids",Barney
-https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="Pluto Kids",Babar
-https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Pluto Kids",El Reino Infantil
-https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Pluto Kids",Nickelodeon Clásico
-https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Pluto Kids",Rugrats
-https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto Kids",Nickelodeon Rocket Power
-https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" group-title="Pluto Kids",Nickelodeon Pluto TV
-https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Pluto Kids",Bob Esponja Pantalones Cuadrados
-https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Pluto Kids",Los Padrinos Mágicos
-https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto Kids",Las Tortugas Ninja
-https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Pluto Kids",Pluto TV Kids
-https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Pluto Kids",Pluto TV Anime Kids
-https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Pluto Kids",Nick Teen
-https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Pluto Kids",Nickelodeon iCarly
-https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Pluto Kids",Kenan y Kel
-https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Pluto Kids",Pluto TV Teen
-https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Pluto Música",MTV Biggest Pop
-https://i.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Pluto Música",MTV Spankin' New
-https://i.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" group-title="Pluto Música",MTV Flow Latino
-https://i.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Pluto Música",Conciertos por Stingray
-https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Pluto Música",Karaoke por Stingray
-https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="Pluto Noticias",CBS News
-https://i.mjh.nz/PlutoTV/62310d5a5dc9550007c6f580-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Pluto Noticias",Euronews Español
-https://i.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Pluto Noticias",Telefe Noticias
-https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Pluto Noticias",Chilevision Noticias
-https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="Pluto Noticias",TeleFórmula
-https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="Pluto Deportes",Pluto TV Deportes
-https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="Pluto Deportes",ITV Deportes
-https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="Pluto Deportes",FUEL TV
-https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Pluto Deportes",Pluto TV Peleas
-https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Pluto Deportes",Lucha Libre AAA
-https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Pluto Deportes",La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="Pluto Deportes",DAZN Women's Football
-https://i.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb907651f5d000085e4778/colorLogoPNG.png" group-title="Pluto Entretenimiento",Best of The Drew Barrymore Show
-https://i.mjh.nz/PlutoTV/63eb907651f5d000085e4778-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png" group-title="Pluto Entretenimiento",Nosey Escándalos
-https://i.mjh.nz/PlutoTV/5f9afb01816137000737f799-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63ceb6ff60bc8f00088dc625/colorLogoPNG.png" group-title="Pluto Entretenimiento",Teatrix
-https://i.mjh.nz/PlutoTV/63ceb6ff60bc8f00088dc625-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Pluto Entretenimiento",Reviví Gran Hermano
-https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Pluto Entretenimiento",Telefe Hits
-https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="Pluto Entretenimiento",Gran Hermano Chile
-https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Pluto Entretenimiento",Chilevision Contigo
-https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="Pluto Entretenimiento",Paramount+ Presenta
-https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Novelas
-https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="Pluto Entretenimiento",Sin Tetas No Hay Paraíso
-https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="Pluto Entretenimiento",La Selección
-https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" group-title="Pluto Entretenimiento",Rock Story
-https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Reality
-https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Drag
-https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Pluto TV
-https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Classic
-https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Shore
-https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Con Mi Ex
-https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Ridiculousness
-https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Teen Mom
-https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="Pluto Entretenimiento",MTV Catfish
-https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV  Competencias
-https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="Pluto Entretenimiento",Iron Chef
-https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="Pluto Entretenimiento",MasterChef
-https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64bed7005dc16600089b84e9/colorLogoPNG.png" group-title="Pluto Entretenimiento",MasterChef Junior
-https://i.mjh.nz/PlutoTV/64bed7005dc16600089b84e9-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Pluto Entretenimiento",Hells Kitchen
-https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Pluto Entretenimiento",Minuto Para Ganar
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="Pluto Entretenimiento",Boom
-https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="Pluto Entretenimiento",Wipe Out
-https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png" group-title="Pluto Entretenimiento",Desafío Super Humanos
-https://i.mjh.nz/PlutoTV/6495af324c014a000842e923-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Viajes
-https://i.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Hogar
-https://i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Cocina
-https://i.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Recetas
-https://i.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png" group-title="Pluto Entretenimiento",Tastemade
-https://i.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png" group-title="Pluto Entretenimiento",Pluto TV Fashionstream
-https://i.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="Pluto Entretenimiento",Fashion TV
-https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Pluto TV Anime
-https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Pluto TV Animé Acción
-https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Naruto
-https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Death Note
-https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Yu-Gi-Oh
-https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Captain Tsubasa
-https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Beyblade
-https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="Pluto Anime & Gaming",One Piece
-https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Tokusato
-https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Pluto Anime & Gaming",Pluto TV E-Sports
-https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="Pluto Anime & Gaming",ESR 24/7
-https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
+http://138.59.177.34:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Adultos",Venus
+http://168.181.122.234:8000/play/a027/index.m3u8
+
 
