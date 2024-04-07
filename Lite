@@ -1,1267 +1,191 @@
+
 #EXTM3U
-#EXTINF:-1 group-title="Local" tvg-logo="https://iconape.com/wp-content/png_logo_vector/facebook-reaction-like.png",Like TV
-https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png",Latina
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/2206981/554027/554027_11662853_2206981_060eb201_image.jpg" group-title="Otiplay Flex TV",CanalUNO FlexTV
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Otiplay Flex TV",Latina
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png",Nativa
-https://ntv.pe/salida/nativa.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png",America
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_panamericana_tv_2020_2.png",Panamericana
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png",Exitosa TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",TV Peru
-https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg",ATV+ Noticias
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png",ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
-#EXTINF:-1 group-title="Local",TeleLima
-http://38.44.237.132:2080/TeleLima/index.m3u8
-#EXTINF:-1 group-title="Local",Viva TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png",Willax
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/chunks.m3u8
-#EXTINF:-1 group-title="Local",Global
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Local",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoderip/justiciatv_t1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Peru Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/0/1658343714330?e=2147483647&v=beta&t=J6qaUBfjLlSknU5C_0HxfJa7LFv0TVd6egnbLOuiRqk",Conecta2 TV
-https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/chunks.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="Logo N/A",BH TV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Imagestributv.png",Trivu TV
-https://www.chasquirouter.com/salida/trivu.m3u8
-#EXTINF:-1 group-title="Local",CAL TV
-http://bantel.iptvperu.tv:1935/astralocal/Calt_tv/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://cdn.m3u.cl/logo/1509_Peruvisual.png",Peru Visual (Exclusivo)
-https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="Logo N/A",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="Logo N/A",Ovacion TV
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist_w956411886.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="Logo N/A",Cablevision TV
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 group-title="Local",USIL TV
-https://per01-lim01.servidor.stream/usiltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Local",Millenial TV
-https://www.milenial.news/salida/sd/milenial.m3u8
-#EXTINF:-1 group-title="Local",CTV Peru
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 group-title="Local",Canal B
-https://ott1.hdlatam.tv/live/CanalB/playlist.m3u8
-#EXTINF:-1 group-title="Local",USMPTV Musica
-http://191.97.60.193:10000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Local",Viva TV
-http://191.97.60.193:10000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Local",USMP TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Otiplay Flex TV",Nativa
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Otiplay Flex TV",America
+http://bantel.iptvperu.tv:1935/prueba/americatvmovil_t6.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="Otiplay Flex TV",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="Otiplay Flex TV",Exitosa TV
+http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Otiplay Flex TV",TV Peru
+https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Otiplay Flex TV",Canal N
+http://45.225.104.138:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="Otiplay Flex TV",ATV
+http://45.225.104.138:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Otiplay Flex TV",RPP TV
+http://45.225.104.138:8000/play/a0da/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="Otiplay Flex TV",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 group-title="Local",La Tele
-http://186.148.184.163:8000/play/a084
-#EXTINF:-1 group-title="Cine y Series",A&E
-http://168.181.122.234:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",AMC
-http://138.59.177.34:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",AXN
-http://138.59.177.34:8000/play/a06w/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Canal Claro
-http://138.59.177.34:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cine Latino
-http://168.181.122.234:8000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Cinecanal
-http://168.181.122.234:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Claro Cinema
-http://138.59.177.34:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Clover Channel
-http://160.20.165.246:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",DHE
-http://168.181.122.234:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",FMH Family
-http://191.97.60.193:10000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",FMH Movies
-http://191.97.60.193:10000/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",FX
-http://168.181.122.234:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Golden
-http://186.148.184.163:8000/play/a06z
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Golden Edge
-http://181.119.66.30:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series",Golden Premiere
-http://168.181.122.234:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Golden Premiere 2
-http://168.181.122.234:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",HBO 2 HD
-http://168.181.122.234:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",HBO Family
-http://168.181.122.234:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",HBO Oeste
-http://45.5.117.182:8000/play/a0e8/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",MX Classic
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series",MX Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series",MX OLD
-https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series",MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Paramount Network
-http://138.59.177.34:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",Space
-http://168.181.122.234:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Star Channel
-http://168.181.122.234:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Star TVE
-http://168.181.122.234:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Studio Universal
-http://138.59.177.34:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT
-http://138.59.177.34:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",TNT Series
-http://168.181.122.234:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Universal Cinema
-http://168.181.122.234:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Universal Comedy
-http://138.59.177.34:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Universal Premiere
-http://138.59.177.34:8000/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Universal Reality
-http://138.59.177.34:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="Cine y Series",USA Network
-http://168.181.122.234:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",VisionTV Cine
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",Warner
-http://168.181.122.234:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="Logo N/A",CINE ARGENTINO
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist.m3u8
-#EXTINF:-1 group-title="Variados",Canal DOS
-https://marine2.miplay.cl/dos/playlist.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",Clic
-http://177.53.153.20:8001/play/a091/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",Cocina TV
-https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Variados",Comedy Central
-http://177.53.153.20:8001/play/a02i/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",E! Entertainment
-http://168.181.122.234:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",EstrellaTV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/150px-Fashion_TV_logo.svg.png",FashionTV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="Variados",HGTV
-http://168.181.122.234:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="Variados",Hola TV
-http://45.228.232.205:16000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",Home & Health
-http://138.59.177.34:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png",INTI TV
-https://m3u-editor.com/serve/kiwitvlite/765696608
-#EXTINF:-1 group-title="Variados",Lifetime
-http://138.59.177.34:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="Variados",Mas Chic
-http://138.59.177.34:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",Mundo y Sabor
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",N+ Media
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index_4.m3u8
-#EXTINF:-1 group-title="Variados",On Tour Channel
-https://marine2.miplay.cl/ontour/playlist.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/150px-Sun_Channel_Logo_2022.webp.png",Sun Channel
-http://177.53.153.20:8001/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Variados",TLC - Travel and Living
-http://168.181.122.234:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",TruTV
-http://138.59.177.34:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="Variados" tvg-logo="Logo N/A",TV Salud
-https://marine2.miplay.cl/tvsalud/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",BeIN Deportes
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",BeIN Sports Extra Android
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sports
-http://161.132.108.75:50001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Deportes",Claro Sports 2
-http://181.175.41.170:8000/play/a0m9
-#EXTINF:-1 group-title="Deportes",Creo Sports
-https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",D Sports
-http://209.45.81.84:8000/play/a03d
-#EXTINF:-1 group-title="Deportes",D Sports 2
-http://161.132.243.192:50001/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Deportes",DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN (MX)
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN2_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
-http://45.5.117.182:8000/play/a0jp/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD (MX)
-http://168.181.122.234:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 (MX)
-http://45.5.117.182:8000/play/a0gi/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
-http://168.181.122.234:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN4_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 HD (MX)
-http://177.53.153.20:8001/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Extra
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPNEXTRA_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Extra (MX)
-http://167.250.222.35:16000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 (MX)
-http://167.250.222.35:16000/play/a07u/index.m3u8
-#EXTINF:-1 group-title="Deportes",Latin American Sports
-http://167.250.222.35:16000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="Deportes",Liga 1 Max
-http://190.102.139.241:8900/play/a12f/index.m3u8
-#EXTINF:-1 group-title="Deportes",Liga 1 Max opc2
-http://177.53.153.20:8001/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Deportes",M+ Liga de Campeones
-http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/chunks.m3u8
-#EXTINF:-1 group-title="Deportes",Monterrico TV - JCP
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="Logo N/A",My Padel TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="Logo N/A",Ovacion Deportes
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/chunklist.m3u8
-#EXTINF:-1 group-title="Deportes",Real Madrid TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Sky Sports La Liga
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="Deportes",Sky Sports UE
-http://45.228.234.173:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Deportes",Sport Xtremo
-https://marine2.miplay.cl/sportext/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",TD+2 HD CR
-http://177.53.153.20:8001/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Deportes",Telefe Deportes
-https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
-#EXTINF:-1 group-title="Deportes",Tigo Sports GT Vix
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Tigo Sports HD
-http://177.53.153.20:8001/play/a094/index.m3u8
-#EXTINF:-1 group-title="Deportes",Tigo Sports HN
-http://138.59.177.34:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports CL
-http://190.102.139.241:8900/play/a0sx/index.m3u8
-#EXTINF:-1 group-title="Deportes",TUDN
-http://45.189.148.24:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Deportes",TyC Sports
-http://190.102.139.241:8900/play/a0op/index.m3u8
-#EXTINF:-1 group-title="Cultura",Animal Planet
-http://168.181.122.234:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery HD
-http://45.5.117.182:8000/play/a0ju/index.m3u8
-#EXTINF:-1 group-title="Cultura",Discovery Theater HD
-http://45.5.117.182:8000/play/a0ia/index.m3u8
-#EXTINF:-1 group-title="Cultura",Film & Arts
-http://138.59.177.34:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Cultura" tvg-logo="Logo N/A",Investigation Discovery
-http://168.181.122.234:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Cultura",Nat Geo
-http://168.181.122.234:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240",Fitmaxx TV
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",FM HITS
-https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Hits 360
-https://scl.edge.grupoz.cl/transmision/live/chunklist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Karibena TV
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png",Memorias TV
-https://m3u-editor.com/serve/kiwitvlite/765696619
-#EXTINF:-1 group-title="Musica" tvg-logo="https://pbs.twimg.com/media/FfuliqvXoAEuTtS?format=png&name=240x240",Mimusica Popular
-http://160.20.165.246:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg",Mimusica Reggaeton
-http://160.20.165.246:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3hIWJfpPueuL-xdOFKeX_QX75cWzWNDUmRaxjcNp4OmkT17HgpGwvuIIqyTRKHuA-w&usqp=CAU",Mimusica Regional
-http://160.20.165.246:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU",Mimusica Salsa
-http://160.20.165.246:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Portal FoxMix
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Rumba TV
-http://181.119.66.30:8000/play/73/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Sin Limites
-https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/chunklist.m3u8
-#EXTINF:-1 group-title="Musica",TLR Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",TV San Borja
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 group-title="Musica",Urbano TV
-https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Vision Musica
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",VM Musica
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="Logo N/A",Flou CaribeÃƒÂ±o
-https://amg01768-flou-floucaribe-canelatv-cgucr.amagi.tv/playlist/amg01768-flou-floucaribe-canelatv/cb513f16657060909bcf2160d0d319dd844c3bdd0b61cb3071aa448f1298410ddafbb2d3932fff6e429e14ce06750a57597edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42b85b20067cddf359bd150393d148d2602c88aac3623f6f4e599d0c0cb3f15df1e2e95f14de71a0b0491d882717e5d05f9bd21bbbd182539e178e77a476cda8d8b302eb4fb4bb51cc34a0593c562b699c8439a0dd5ca2df891b41f61306676e98623ef184231289555754b8dec6ba77f610cff345cb0065fd681028f5b34f900e4927c36ed935885c87ba2d9c64110e06ade0b283f8347c9e6ef2a1e8da7c465c977e716ac677d12e2739dfa88544c48b229fb8278aa37a5d16f4d113d5cce9c3d89fba1cc86c8ae6e4883147796606298f49edcf3e8c678e2ee8863809686068e1da59cd8ddc1e17674c8d8f17943013abd48686905f6b982e4b14b82e891b366dca357e75aa78aacd723fdf5479ef5c0af256318f55eff87b87c1f5d1466dfb8fbd019509c8ba05d5fa07d31d1f5110bcff291f080c4ad9e06202276a8122c0d6d9ea630610e6949ca799c3befd2d80f4d9986c1b7e7262f65382/199/1280x720_2657019/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",Baby TV
-http://168.181.122.234:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",BabyTV International
-https://s99.dr691652.repl.co/tv507/dish_transco-bym3ukodi.php?ch-name=Baby_Tv&f=.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",Cartoon Network
-http://138.59.177.34:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os" tvg-logo="Logo N/A",Discovery Kids
-http://138.59.177.34:8000/play/a06a/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",Disney Channel
-http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",Disney JR
-http://168.181.122.234:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os",Nick JR
-http://168.181.122.234:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os" tvg-logo="Logo N/A",Nickelodeon
-http://168.181.122.234:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os" tvg-logo="Logo N/A",NovaKids TV
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-#EXTINF:-1 group-title="NiÃƒÂ±os" tvg-logo="Logo N/A",Anime Zone
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
-#EXTINF:-1 group-title="Novelas",Corazon HD
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
-#EXTINF:-1 group-title="Novelas" tvg-logo="Logo N/A",Kanal D Drama Vive
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Novelas" tvg-logo="Logo N/A",Las Estrellas
-http://138.59.177.34:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="Novelas",Pasiones
-http://38.43.150.121:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Novelas",RCN Novelas
-http://138.59.177.34:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="Novelas",TL Novelas
-http://186.148.184.163:8000/play/a05e
-#EXTINF:-1 group-title="Novelas" tvg-logo="Logo N/A",TNT Novelas
-http://138.59.177.34:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNN en espanol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="Otiplay Flex TV",Willax
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Otiplay Flex TV",Global
+http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Otiplay Flex TV",TV Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="Otiplay Flex TV",ATV+ Noticias
+http://bantel.iptvperu.tv:1935/transcoder_t1/atvnoticias_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ctv.pe/img/logotipo.png" group-title="Otiplay Flex TV",CTV
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/canales-tv/telelima.jpg" group-title="Otiplay Flex TV",TeleLima
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Justicia TV
+http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="Otiplay Flex TV",La Tele
+http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="Otiplay Flex TV",Gol Peru
+http://45.225.104.138:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="https://claroperupoc.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" group-title="Otiplay Flex TV",L1 Max
+http://38.43.132.86:8000/play/a03b/index.m3u8
+
+#EXTINF:-1 group-title="Otiplay Flex TV",Univision
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Azteca Internacional
+http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",TVE
+http://45.225.104.138:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Antena 3
+http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nex" group-title="Otiplay Flex TV",CNN en espanol
 http://168.181.122.234:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Noticias",CNN Espanol OTT
-https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="Logo N/A",DW Espanol
+#EXTINF:-1 tvg-logo="nex" group-title="Otiplay Flex TV",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="nex" group-title="Otiplay Flex TV",Canal Congreso
+http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
+#EXTINF:-1 tvg-logo="n/a" group-title="Otiplay Flex TV",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="Logo N/A",France 24
-https://marine2.miplay.cl/france24/playlist.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="Logo N/A",Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/chunklist_w447023431.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="Logo N/A",RT Espanol
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",RT Espanol
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="Logo N/A",Weather Channel
-https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Retro" tvg-logo="Logo N/A",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Retro",Mi TV
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-#EXTINF:-1 group-title="Retro",Old Music
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-#EXTINF:-1 group-title="Retro",RetroKids
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Retro" tvg-logo="Logo N/A",Retroplus
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 group-title="Retro" tvg-logo="Logo N/A",Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist.m3u8
-#EXTINF:-1 group-title="Retro" tvg-logo="Logo N/A",TeleSistema
-https://video20.klm99.com:3621/hybrid/play.m3u8
-#EXTINF:-1 group-title="Retro",Xtrema Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Ben 10
-http://51.159.104.29:8080/ben10/index.m3u8
-#EXTINF:-1 group-title="24/7",Bob Esponja
-http://51.159.104.29:8080/bobesponja/index.m3u8
-#EXTINF:-1 group-title="24/7",Cinecartoon
-https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist_w2027899740.m3u8
-#EXTINF:-1 group-title="24/7",Durmiendo con mi Jefe
-https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",El Chavo del 8
-https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1 group-title="24/7",La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Los Picapiedra
-https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
-#EXTINF:-1 group-title="24/7",Malcolm de en medio
-http://51.159.104.29:8080/malcom/index.m3u8
-#EXTINF:-1 group-title="24/7",Mr Bean 24H
-http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 group-title="24/7",Peppa Pig Channel
-http://51.159.104.29:8080/pepapig/index.m3u8
-#EXTINF:-1 group-title="24/7",SuperCampeones
-http://51.159.104.29:8080/Supercampeones/index.m3u8
-#EXTINF:-1 group-title="24/7",The Breaking Bad
-http://51.159.104.29:8080/BREAKINGBAD/index.m3u8
-#EXTINF:-1 group-title="24/7",The Walking Dead 24H
-http://51.159.104.29:8080/THEWALKINGDEAD/index.m3u8
-#EXTINF:-1 group-title="Religion",3ABN
-https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
-#EXTINF:-1 group-title="Religion",Aliento Vision
-https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",CBN
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Extrema TV
-https://627bb251f23c7.streamlock.net:444/MetaldelCielo/MetaldelCielo/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 group-title="Religion",Movie FE
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",TV Familia
-https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
-#EXTINF:-1 group-title="Religion",Logos TV
-https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",Family Channel
-https://cp.panelchs.com:1936/8012/8012/chunklist.m3u8
-#EXTINF:-1 group-title="Religion",Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b1628000_slspa.m3u8
-#EXTINF:-1 group-title="Religion" tvg-logo="Logo N/A",Television Consciente
-https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-televison-concientes-samsunges/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Religion" tvg-logo="Logo N/A",Tu Universo TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist.m3u8
-#EXTINF:-1 group-title="+PERU",Antares RTV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="+PERU",Antena UNO (Yunguyo)
-https://servilive.com:3281/live/antenaunotvlive.m3u8
-#EXTINF:-1 group-title="+PERU",ATV Sur (Arequipa)
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
-#EXTINF:-1 group-title="+PERU",Autentica TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="+PERU",Canal 8 (Catacaos)
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="+PERU",Creo TV (Lima)
-https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
-#EXTINF:-1 group-title="+PERU",DMJ (Bagua)
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist.m3u8
-#EXTINF:-1 group-title="+PERU",Doble C (Chupaca)
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 group-title="+PERU",Genios TV (Moyobamba)
-https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="+PERU" tvg-logo="Logo N/A",Nacional Peru TV
-https://s1.tvdatta.com:3349/live/nacionaltvlive.m3u8
-#EXTINF:-1 group-title="+PERU",NorSelva
-https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="+PERU",Peru Channel
-https://a.cdni.live/peruchanel/peruchanel/chunklist.m3u8
-#EXTINF:-1 group-title="+PERU",Peruanisima TV
-https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist.m3u8
-#EXTINF:-1 group-title="+PERU",Piura TV (Piura)
-https://ott1.hdlatam.tv/live/SRT_PiuraTV/playlist.m3u8
-#EXTINF:-1 group-title="+PERU" tvg-logo="Logo N/A",Region TV ( Callao)
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 group-title="+PERU",SOL TV (Trujillo)
-https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 group-title="+PERU",SuperCanal (Moyobamba)
-https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 group-title="+PERU",Telecolor (Junin)
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="+PERU",TurboMixTV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="+PERU",TV Amazonas
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="+PERU",TV en LINEA (Cusco)
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 group-title="+PERU",Unitel TV (Huancayo)
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 group-title="+PERU" tvg-logo="Logo N/A",Vamisa TV (Lima)
-https://inliveserver.com:1936/10044/10044/chunklist.m3u8
-#EXTINF:-1 group-title="+PERU",Via Altomayo (Moyobamba)
-https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="+PERU",VIA Television (Iquitos)
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 group-title="+PERU",Vinilos TV
-https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8?
-#EXTINF:-1 group-title="AMERICA",ARG - Canal 5 Del Pueblo  | Ar
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - CNAR Deportes
-https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/chunklist.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - CNAR Noticias
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/chunklist_w1920899326.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - El Nueve
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Informacion Periodistica
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - LatinaTV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Litus TV
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Magic Kids
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - MAS Fm
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Music Top
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - NET TV Internacional | Ar
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?
-#EXTINF:-1 group-title="AMERICA",ARG - Power
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Radiocanal San Francisco
-http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Tele Estrella
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Telediario
-https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ARG - Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Terramia TV
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - TV Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="AMERICA",ARG - Variedtv
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",BOL - Ayni TV
-http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - Bolivia TV
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - Bolivia TV 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",BOL - Bolivision
-https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/Bolivision/Bolivision1/chunks.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - MEGA
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - RED Ad Venir Internacional
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - TeleEstrella
-https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
-#EXTINF:-1 group-title="AMERICA",BOL - TV Latina
-https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Alternativa TV | Cl
-https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - America TV Chile
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Antofagasta TV
-https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Antofagasta TV 2 | Cl
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Atacama Noticias TV | Cl
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Atacama TV | Cl
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Canal 13
-http://177.53.153.20:8001/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Canal 13 Entretencion
-https://daiconnect.com/live/hls/tvup/tvfy-13entretencion/4b7de05356ec5e1f2098370f9b909817/.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Canal 13 Cultura
-https://daiconnect.com/live/hls/tvup/tvfy-13cultura/3c662f91a1d2f1a9f6ff10e9674d57ca/.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Caracola TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Chilevision
-http://177.53.153.20:8001/play/a027/index.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Clicktv
-https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - CNN Chile
-http://177.53.153.20:8001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Concepcion TV | Cl
-http://live.mundogo.cl/mundo/concepciontv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - EGM Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Ekiz TV | Cl
-http://live.mundogo.cl/mundo/EquizTV/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - El Pinguino TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Enfoque Digital TV | Cl
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Iquique TV
-https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - ITV Patagonia
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - LA Popular TV
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - La Red
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Mega
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Molina TV | Cl
-http://live.mundogo.cl/mundo/Molinatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Origen TV | Cl
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Puranoticia
-https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Recuerdos Retro Radio TV | Cl
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Televida HD | Cl
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - TV Costa
-https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - TV Mas+ | Cl
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w75822369.m3u8
-#EXTINF:-1 group-title="AMERICA",CHI - U Chile TV
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - U Los Lagos | Cl
-http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - UCV
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Uestv | Cl
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Universidad Autonoma TV
-https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - Vision Plus TV | Cl
-https://v2.tustreaming.cl/visionplustv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - VP Television | Cl
-https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",CHI - VTV
-https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",COL - Avivamiento TV
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - CableNoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Cali TV
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Cali TV Opcion 2
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Canal Capital
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Cosmovision
-https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Noticiero 90 Minutos
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA" tvg-logo="Logo N/A",COL - NTN24
-http://160.20.165.246:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="AMERICA" tvg-logo="Logo N/A",COL - RCN Internacional
-http://160.20.165.246:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="AMERICA" tvg-logo="Logo N/A",COL - RCN Plus
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Tele Familia
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - Telepacifico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",COL - TV Penol
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",CRI - Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",CRI - TeleUNO
-https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",ECU - Ecuador TV
-https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - Ecuavisa
-https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - Gamavision
-http://160.20.165.246:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - Hechos Ecuador
-https://stmv.streamingvip.click/hechosecuador/hechosecuador/chunklist.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - RTS
-https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC2/chunks.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - Teleamazonas
-http://160.20.165.246:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="AMERICA",ECU - TVC Televicentro
-https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/TVCEC/TVCEC1/chunks.m3u8
-#EXTINF:-1 group-title="AMERICA" tvg-logo="Logo N/A",ELS - Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ELS - Wow TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",ELS - TUTV
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - 15tv Sabinas
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - AZ Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-#EXTINF:-1 group-title="AMERICA",MEX - Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Canal 4 Saltillo | Mx
-https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1 group-title="AMERICA",MEX - Conecta TV
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA" tvg-logo="Logo N/A",MEX - Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Jalisco TV | Mx
-https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Multimedios
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Presumiendo Mexico | Mx
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - Radio y Television de Veracruz (RTV)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Televisa Guadalajara
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - Touristik Mexico
-https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - TV Lobo | Mx
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - TV Mexiquense
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
-#EXTINF:-1 group-title="AMERICA",MEX - TVP Culiacan | Mx
-https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - TVP Los Mochis | Mx
-https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - TVP Mazatlan | Mx
-https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",MEX - UNI Morelos
-https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",PAR - Dismar TV
-http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",PAR - Estacion Cristal
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",PAR - RCC TV
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",PAR - Suceso TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="AMERICA",USA - ESTRELLA TV
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",VEN - Esports Max TV
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 group-title="AMERICA",VEN - Reforma TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Planeta Movie
-https://tls-cl.cdnz.cl/movie/live/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Planeta Family
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",SuperCine
-https://stmv1.cnarlatam.com/supercine/supercine/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Comedia
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Familia
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Hindu
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema infantil
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Latino
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/chunklist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 group-title="Pack Xtrema Movie",Xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/chunklist.m3u8
-#EXTINF:-1 group-title="Stingray Music" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/586/196/original/headphone-music-note-logo-vector-illustration.jpg",MÃƒÂºsica Libre
-https://cloudvideo.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 group-title="Stingray Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Music Classica
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 group-title="Stingray Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stingray_Digital.svg/252px-Stingray_Digital.svg.png",Stingray Music Djazz
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 group-title="RADIOS" tvg-logo="Logo N/A",Radio Tropical
-https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
-#EXTINF:-1 group-title="Tropical Music",Cultura Musica
-https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/chunklist.m3u8
-#EXTINF:-1 group-title="Tropical Music",Tropical Cumbia Colombiana
-https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/chunklist.m3u8
-#EXTINF:-1 group-title="Tropical Music",Tropical Media TV
-https://srv2.tropicalmoonmedia.com/eventostv/eventostv/chunklist.m3u8
-#EXTINF:-1 group-title="Tropical Music",Tropical Salsa
-https://srv.tropicalmoonmedia.com/musictv/musictv/chunklist.m3u8
-#EXTINF:-1 group-title="Tropical Music",Tropical Urbano
-https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/chunklist.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",101 dalmatas
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/19/07/a2d45381/a2d45381-36af-409e-b29a-99fb0213fcd9_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",3 dias para matar
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/08/18/09/9ee68a3b/9ee68a3b-7295-4aa9-8dd3-55622a1f61dc_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",50 sombras de Grey
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/16/e7a2d739/e7a2d739-5176-4f92-b158-ba395d2660a3_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Adultos jovenes
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/b6680068/b6680068-50de-4833-aab5-6236b4eec793_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Amigos
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/13/15/4efcede5/4efcede5-551f-4073-82c2-6a9068f2c61e_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Atrapen al gringo
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/13/44425d59/44425d59-b226-41ab-b6c0-d81ca08aa704_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Bastardos sin gloria
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/19/23/23bb549f/23bb549f-8d72-4df3-be7b-3267caa5bb3a_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Bumblebee
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/06/a7799f6f/a7799f6f-13e6-46eb-a52b-0d6ea6f0ecfb_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Caracortada
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/20/00/6ca240da/6ca240da-80ca-4af2-a2ee-b9881d079bb8_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Carrie
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/05/05/71fda2eb/71fda2eb-d313-4a72-834d-5d9f8a452f68_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Casi un gigolo
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/07/82da4a6d/82da4a6d-91f9-4bfc-a1c9-990249fe67e7_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Cuestion de tiempo
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/20/14/916abbba/916abbba-e65e-4475-99a5-722c13a4197d_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Diarios de motocicleta
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/05/e32731f9/e32731f9-be23-4dc9-bf09-b5fe3fac7350_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Educando a Helen
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/08651467/08651467-497e-4cda-9258-b712f8c64f9a_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El apartamento
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/02/8ff3414d/8ff3414d-0033-4967-b07b-f60dbdbe8507_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El buen pastor
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/01/623693ab/623693ab-5032-4c3e-bcc8-89da0b5ae8e7_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El Capital humano
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/21/677d78bd/677d78bd-49d3-44a4-af5e-0adf35daf561_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El gran golpe
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/11/35ac30eb/35ac30eb-d596-435f-bd56-dd8f3994c554_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El guardian del zoologico
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/12/cf64e68e/cf64e68e-459c-422a-a0b7-6690dc95f001_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El hobbit: La batalla de los 5 ejercitos
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/23/ed19da8b/ed19da8b-9f64-4a96-b865-c8a3fad020a0_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El Lider
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/d11ccc61/d11ccc61-8dae-4c0f-9887-95bd06d03556_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El Orfanato
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/16/299610ae/299610ae-d520-496f-89c8-9f886dcf15ae_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El protector
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/20754dd7/20754dd7-32da-4805-beec-e81767a5617b_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El reino prohibido
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/06/b5521d1c/b5521d1c-919f-481d-93d7-65012a9220b8_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El rescate
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/18/5fa20e99/5fa20e99-f5c1-4066-86e7-6fda0d99b933_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",El sexto sentido
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/22/d02bd309/d02bd309-edf9-4b9d-afe4-a4ec3fdb870f_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Escritores de la libertad
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/18/10/eae8e1f3/eae8e1f3-df32-4325-8dc3-682a57ba5a9c_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Estacion Zombie
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/17/0719b776/0719b776-6427-4e0f-9226-c72f937a9198_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",ET el extraterrestre
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/12/06/91f302cf/91f302cf-b100-4c63-ab2c-06a80741960f_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Ex maquina
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/20/00/35a50686/35a50686-32ba-4d23-bb32-0cea1c32b881_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Frente a frente
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/00/267bf2dc/267bf2dc-883f-44ff-9942-12836414659b_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Hasta el ultimo hombre
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/18/d447320b/d447320b-9cbc-4f31-a656-b60b82c0a212_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Hombre al agua
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/15/05/32e3c6c6/32e3c6c6-81a1-429e-ad36-9f3fae76e54a_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Hulk
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/12/362fea48/362fea48-4f00-43a4-82d0-936e7e6ec3f5_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Inmortales
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/13/800d8335/800d8335-f086-47b5-ad01-21cc33328db2_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Jason Bourne
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/11/c1a19b3e/c1a19b3e-69da-4b3c-b96d-4cd113571086_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Jeepers Creepers
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/07/02/cb23577c/cb23577c-fac5-4733-ba04-5b6e9c3e6a4e_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",John Wick
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/03/afff0ce0/afff0ce0-22ac-4b66-9a12-6a773ab8d0b5_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",La cosa
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/22/128b5f9e/128b5f9e-3030-4440-b9f6-5ceb9a3b5f9a_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",La despedida
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/26/10/d7a8b3c1/d7a8b3c1-8cd5-456f-a8ee-a5d4d1298204_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",La Duquesa
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/10/67cc1140/67cc1140-d1ee-4f9d-a58f-706649b2bba1_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",La pesadilla
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/18/6908b1dd/6908b1dd-538a-41f1-8dfb-d3a20d61c4b2_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",La provocacion
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/02/8a480507/8a480507-be96-4252-954a-d68479bab7ed_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Legalmente rubia
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/0ade4941/0ade4941-75f9-460e-9282-48c624324fa6_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Legendario
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/19/2bf98ae3/2bf98ae3-c873-426b-8eb8-c30302a3b2f7_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Los Croods
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/15/728da73c/728da73c-49e3-488a-81a4-53685a16b1c7_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Los indestructibles
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/15/0231fbee/0231fbee-9882-4d36-89e2-b31019946fa4_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Madagascar
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/e63181b0/e63181b0-ac9e-4172-9add-316405576244_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Memorias de Manhattan
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/03/99a58466/99a58466-5728-406e-8137-dece65d2cd26_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Mientras duermes
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/22/acb26866/acb26866-c7a1-461f-bbca-068f28a8ac78_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Mortadelo y filemon contra Jimmy el locuaz
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/23/05/917f4b98/917f4b98-65e3-424a-93cb-ee9a24140eb7_4_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Muerte en la montaÃƒÂ±a
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/22/11/f8d3ce94/f8d3ce94-9d9c-428c-bb7b-f6eece4ff768_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Notas perfectas
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/03/8605ae39/8605ae39-7718-4ca4-9fef-6f6752411369_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Oblivion: el tiempo del olvido
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/03/7b532d14/7b532d14-21ca-42f9-85ee-a0b8927ff6e2_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Operacion final
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/13/93b91693/93b91693-718f-4363-9b94-a64018ea0eef_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Orgullo y prejuicio
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/11/377a7923/377a7923-47b7-4d03-9bfb-a184b1d8d7fd_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Pecado original
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/09/20/02/f98e8f72/f98e8f72-8e17-41c0-9c0d-c35c3bc93432_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Peloton
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/21/12/79c609c9/79c609c9-27ec-4727-bc2b-116bd76265c5_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Perdidos en Tokio
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/11/86e2844c/86e2844c-1465-45b6-9235-1a49b0888a39_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",REC
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/05/da36a57f/da36a57f-10ef-4594-a8a1-4fa3c22ecd83_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",REC 2
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/07/09/b4968fe1/b4968fe1-2f11-4b28-84ef-5589b46229a9_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",RED
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/06/40cf7eec/40cf7eec-82aa-4aff-8dd2-2da625b4e958_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Scoop
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/04/5f189c3c/5f189c3c-7342-4167-be5f-27083a5da63d_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Se busca
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/13/236667db/236667db-e4ec-4124-b12d-441c3d003579_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Semper Fi
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/10/04/13/50eb343a/50eb343a-fdc5-41f5-be6f-eb7f506bb69d_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Senales
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/d34ca413/d34ca413-d0a0-4ba1-a1df-8f2e74720afb_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Shrek
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/bda1a53c/bda1a53c-496c-4f77-b31d-d777ca51a603_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Shrek 2
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/14/fcda810f/fcda810f-f299-42b3-8e1c-dd1aa5d27a11_4_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Siempre a tu lado
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/04/526c5a66/526c5a66-5f40-4f18-a567-275cda2b9a66_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Siempre el mismo dia
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/05/b0d2b711/b0d2b711-5b2a-4b99-b90a-bf4e9f62baa8_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Silencio
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/21/6c89e404/6c89e404-f97f-4de3-b7b9-3c546022b43b_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Sin tregua
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/21/12/188cd599/188cd599-b318-424b-9012-4fca8dfc69a0_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Sing
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/19/06/187e6184/187e6184-452b-4ae9-b562-adfa7d36b800_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Sr Nadie
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/24/02/27fb6731/27fb6731-d514-4fa2-b49e-c6ab0cd19674_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Tenemos que hablar de Kevin
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/28/03/56a79b2f/56a79b2f-9905-4efd-8d6a-0768cbb83023_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Terremoto: la falla de San AndrÃƒÂ©s
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/12/8547b1ff/8547b1ff-e43c-4dfa-810d-c073d540b0a5_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Tiempo LÃƒÂ­mite
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/15/809af16e/809af16e-daa4-467b-8b8a-c4e10902c853_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Un lugar en silencio
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/06/22/10/283afed2/283afed2-bd3d-4347-b27e-25ae8a6a9d3b_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Una cita para el verano
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/20/3a28ac51/3a28ac51-7a31-4a20-8678-46f56801a703_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Una Pareja dispareja
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/09/14/04/cde0e82b/cde0e82b-8767-461d-8ed9-5be6bfae376e_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Verdades que matan
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/07/25/00/6332ab7f/6332ab7f-b353-4c32-abaa-ede4d37d9306_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/21/23/9495f713/9495f713-3c92-4eb3-9a14-911ef446054b_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro 2
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/00/34ca46f3/34ca46f3-7df3-4774-b9a0-d2dc085f4b7e_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",Volver al futuro 3
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/22/02/a52257bb/a52257bb-c020-4819-ae8d-7247e029866c_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - HD",X
-https://vod-zlr1.tv360.bitel.com.pe/peru-video/2023/04/25/22/40613a23/40613a23-1390-453d-8874-7afd908650de_5_.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Acusado (2023)
-https://server13.mxcdnab.online/newhls/815b0a4ee3c390e0dff2dcd096915176/EP.0.2.v0.1695593596.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Air (2023)
-http://208.88.245.85/nuevo/air.2023.dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Anna Nicolle
-http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Babylon 5 The Road Home (2023)
-https://server11.mxcdnab.online/newhls/991a2c9129e3638b887755f93865fab8/EP.0.2.v0.1691754580.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Big Mack gangsters
-http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg",Blanco y sangre azul (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171471.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",El rey mono (2023) NETFLIX
-https://server15.mxcdnab.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.2.v2.1692440189.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",El ÃƒÂºltimo vagon
-http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Ellas quieren mÃƒÂ¡s
-http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Flash HD (2023)
-https://server22.mxcdnab.online/newhls/4cf16a17bdab9f6b5ac3043ec5498c41/EP.0.2.v1.1691769784.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Hablame (2023)
-https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v2.1694513565.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Hablame (2023)
-https://server16.mxcdnab.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.2.v3.1696768787.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Hasta la madre
-http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Hijos de perra (2023)
-https://server11.mxcdnab.online/newhls/43fc5ecf6af5c8a5bfa9de22a3d7b4ac/EP.0.2.v3.1694512577.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",I love my Dad (2023)
-https://server21.mxcdnab.online/newhls/c566e74e47a8a466851dac681464f05c/EP.0.1.v0.1697412286.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Indiana Jones 5 (2023)
-http://208.88.245.85/nuevo/indianajones5.latino.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",La Monja 2 TS (2023)
-https://server26.mxcdnab.online/newhls/2dcf71c725f003d389c0ea23b27a0af4/EP.0.2.v1.1694320395.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",La princesa cisne
-http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Los indestructibles 4 (2023)
-https://server21.mxcdnab.online/newhls/8d6e2c4883fbcf5b172d0b4804bf6a7a/EP.0.2.v1.1695472293.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Lost in the Stars (2023)
-https://server12.mxcdnab.online/newhls/08f6a71db3ae9ba6a2b18916e700f4a5/EP.0.2.v1.1697468309.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Miniespias: Armagedon (2023)
-https://server27.mxcdnab.online/newhls/189f63fa9397116c8477af21f8871d0c/EP.0.2.v0.1695473308.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Nada quÃƒÂ© ver
-http://208.88.245.85/nuevo/nadakver.latino2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Nadie podra ayudarte (2023)
-https://server12.mxcdnab.online/newhls/30f97cce15c0002aa7a186f9bd594802/EP.0.1.v1.1695564185.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/teNc18dv3Dd5lZQGgbP9GzK35P4.jpg",Nadie te salvarÃƒÂ¡ (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1176796.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg",Ninja Turtles: Caos mutante (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1176697.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",No estas invitada (2023) NETFLIX
-https://server15.mxcdnab.online/newhls/5dffdb7d860c3253b06dd70089f598cb/EP.0.2.v0.1693175902.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg",No tengas miedo (Cobweb) (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171472.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg",Noches de verano en TaipÃƒÂ©i (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1173909.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fa9XrBaZugEmzelX8r9az9zaje.jpg",Nowhere (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1177469.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j7w8X4cE7rC3Ri2j46Lllkj4Cy.jpg",Once Upon a Crime (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1175829.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg",One Day as a Lion (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1174216.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE2EsMv37IjXLjc6ixOU3LeRtZl.jpg",OperaciÃƒÂ³n Kandahar - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1165628.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg",Past Lives (Vidas pasadas) (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178781.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjTI6czy62GCsoI7G7fKghSrH2x.jpg",Perpetrator (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1175172.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Peter Pan y Wendy (2023)
-http://208.88.245.85/nuevo/peterpanywendy.2023dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",PosesiÃƒÂ³n infernal: El despertar (2023)
-http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Power Rangers: Ayer -  hoy y siempre (2023)
-http://208.88.245.85/nuevo/powerangers.ayerhoysiempre.dual2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg",Proyecto Extraccion - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1169831.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Pura Quimica: The Story of Elemental (2023)
-https://server19.mxcdnab.online/newhls/a2e3a74418bc67371d1d336678d94b2d/EP.0.0.v0.1695467353.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLfO3CbVg8p5Qcaifq6AidOe2w.jpg",Quicksand (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171401.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Quieres ser mi hijo (2023)
-https://server18.mxcdnab.online/newhls/4a1babf42d5158547129a456447c8cb9/EP.0.2.v0.1695469201.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Quiero tu vida (2023)
-http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg",Rapidos y Furiosos  10 - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1165148.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8dQwCNtEEfeYpDA0LJDBiJ8M2e.jpg",Reptiles (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1177470.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Rock dog 3
-http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",RÃƒÂ¡pidos y furiosos 10
-http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8XJCvxuN6BJ3dKbxyjrwDbR1M.jpg",Sangrientos diecisÃƒÂ©is (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178222.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",SAW X (2023)
-https://server12.mxcdnab.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.2.v0.1695980810.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg",Sentinelle (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1175268.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d94Phfk64vNnt8Rp5TyHNoQlGG.jpg",Shortcomings (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178975.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcd5TJwXLWeQ2Dn0aRxI8OJIIxK.jpg",Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1177659.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Soltera codiciada 2 (2023) NETFLIX
-https://server14.mxcdnab.online/newhls/4aa81686b4772484edb1d3650f7274b3/EP.0.2.v0.1695594408.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Sombras de un crimen
-http://208.88.245.85/nuevo/marlowe.2023.dual.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wydlTcs1Op0DEKTfAsJOfi0bGQ.jpg",Sospechoso X (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1176693.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg",Sound of Freedom (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1175456.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybqAzHQcUn9TaGlZzvJxu59Vjry.jpg",Soundtrack Lado A (2022)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1172387.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg",Spider-Man: Cruzando el multiverso (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1164244.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juWq5f91rhWrxVThNwdpbhRLoQK.jpg",Spy Kids: El armagedÃƒÂ³n (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1176771.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg",The Blackening (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171531.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLx1AWWn1hUCrWaH5QfOxI6Hh7.jpg",The Boogeyman (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1173906.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HkYZO13NtTNUnu087b3NFbja1l.jpg",The Burial (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178976.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siO8SNMEuyo25jHO2dqQxY4gWxZ.jpg",The Covenant (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1166751.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",The Mistress (2023)
-https://server07.mxcdnab.online/newhls/30b0613af1140014f05e8c48a9184cf0/EP.0.2.v3.1692437340.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023",Tortugas Ninja: Caos Mutante (2023)
-https://server22.mxcdnab.online/newhls/4f5a65cb683a0468a25bdd7b1c0af3cc/EP.0.2.v1.1691940187.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96UfwAPXozsoYYFCEcUNhSBVntV.jpg",Trap Jazz (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1173200.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCcc6pc7PLSoIVdKkU6QzkEIIki.jpg",Tu Jhooti
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1168654.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSMW4FTD7pZr1t1oqG18NulZMQz.jpg",Un Blanco Facil (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1172375.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VPl1p4oIWlZgA0fk6XsDuhQcia.jpg",Un guardabosque (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1172388.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egdZEgMhqFsxezztDlDqch5TjVM.jpg",Un lugar por el que luchar - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1168182.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bL5cbrF1ONnDLC2UDOoVYRS6TUy.jpg",Una buena persona (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1169620.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",Une actrice royale (2023)
-https://server23.mxcdnab.online/newhls/5b4a5be717efbaa7283fc882838cce0c/EP.0.1.v0.1697388958.720.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg",V/H/S/85 (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178319.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vn77J4IsECDqdPUALpLNFJzJxa.jpg",Vida adulta (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1174901.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqmlDMjHhDFXD1mitn9XYcNsvS1.jpg",Vive dentro (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178407.mkv
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laFhAOqkWFi4sFeGPg8uun2Julw.jpg",Warhorse One - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1168191.mkv
-#EXTINF:-1 group-title="Peliculas - 2023",White & Royal Blue (2023)
-https://server21.mxcdnab.online/newhls/13d55bd95ca7c6fbe1ebe0bbb260d178/EP.0.2.v3.1691773810.1080.m3u8
-#EXTINF:-1 group-title="Peliculas - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",Zoey 102 (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171470.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",Alien vs. Predator - 2004
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171694.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg",Alien: Covenant (2017)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095252.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",Aliens: El regreso (1986)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095254.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg",AlienÃ‚Â³ (1992)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099201.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",Cazafantasmas (2016)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1100656.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBlHh4BNiGYgfBTAFi8XONfseN8.jpg",Cazafantasmas: MÃƒÂ¡s allÃƒÂ¡ (2021)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1118630.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",El hobbit: La batalla de los cinco ejÃƒÂ©rcitos (2014)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095124.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg",El hobbit: La desolaciÃƒÂ³n de Smaug (2013)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095125.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Also6fDCjczi6xEFYFOqiau3f7.jpg",El hobbit: Un viaje inesperado (2012)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095123.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",el octavo pasajero - 1979
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171693.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",El seÃƒÂ±or de los anillos: El retorno del rey (2003)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095146.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",El seÃƒÂ±or de los anillos: La comunidad del anillo (2001)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095145.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg",El seÃƒÂ±or de los anillos: Las dos torres (2002)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095147.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg",En busca del arca perdida - 1981
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171652.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVS44i49BswTvEuVCSe2p2o6df8.jpg",Freddy contra Jason (2003)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099420.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",Harry Potter y el cÃƒÂ¡liz de fuego (2005)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095464.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",Harry Potter y el prisionero de Azkaban (2004)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095467.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",Harry Potter y la cÃƒÂ¡mara secreta (2002)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095461.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg",Harry Potter y la Orden del FÃƒÂ©nix (2007)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095466.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095462.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095463.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CcWnH9P1472GTRrOcCimhG1mNY.jpg",Huida del planeta de los simios (1971)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095413.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",Indiana Jones y el dial del destino (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1173907.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGG1Ljd0ULYHOegN8Qm3r1ndXhE.jpg",Indiana Jones y el reino de la calavera de cristal - 2008
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1097668.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg",Indiana Jones y el templo maldito (1984)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094818.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg",Indiana Jones y la ÃƒÂºltima cruzada (1989)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094819.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A9KmccvMqJA8MQzIes0G9Uobh5.jpg",John Wick (Otro dÃƒÂ­a para matar) (2014)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095011.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",John Wick 4 - 2023
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1158539.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",John Wick: CapÃƒÂ­tulo 3 - Parabellum (2019)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094861.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIa04BbZMO4pIZ1cvnYB4cZVakd.jpg",John Wick: Pacto de sangre (2017)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094862.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg",Jurassic Park (Parque JurÃƒÂ¡sico) (1993)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1097688.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",Jurassic Park III (Parque JurÃƒÂ¡sico III) (2001)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095531.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",Jurassic World: Dominion (2022)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1132001.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",Jurassic World: El reino caÃƒÂ­do (2018)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094872.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg",la bruja y el armario (2005)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1097536.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYRiQwDBYZQ4DGfvODLPZfrrJ2M.jpg",La conquista del planeta de los simios (1973)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095544.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tvu6MoAKEsITQeGhBUQq9BmCk1.jpg",La nueva pesadilla de Wes Craven (1994)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099933.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",La saga CrepÃƒÂºsculo:  Amanecer - Parte 1 (2011)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1098563.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg",La saga CrepÃƒÂºsculo:  Amanecer - Parte 2 (2012)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1098656.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg",La saga CrepÃƒÂºsculo: Eclipse (2010)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099113.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyzlDaHtB15PnRMFsd9jmMJ73pO.jpg",La saga CrepÃƒÂºsculo: Luna nueva (2009)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099114.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4fPiaxCmMyRCo2VD155GXonXXg.jpg",Las aventuras de Sharkboy y Lavagirl (2005)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1097905.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3X3ss0pEy1CntvxbgDYZD3XFa6.jpg",Las crÃƒÂ³nicas de Narnia: El prÃƒÂ­ncipe Caspian (2008)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1176117.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8J5mCaIG1gZe58VIINRlcjhaqgn.jpg",Las crÃƒÂ³nicas de Narnia: La travesÃƒÂ­a del viajero del alba (2010)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095554.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDsYxmjYfVCL8tio48T83pjRsNU.jpg",Logan (2017)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095566.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg",Los Cazafantasmas (1984)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095442.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg",Los Cazafantasmas II (1989)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095443.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPXzpZVP7t3lj5ezxKnvDn6hIf6.jpg",Mad Max 2: El guerrero de la carretera (1981)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095583.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LSgFb5pU2hO0nbOTG803uWeXfn.jpg",Mad Max: Salvajes de la autopista (1979)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095585.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjpM7NNfI5memp40mwqF1zxlLfz.jpg",Matrix 4: Resurrecciones (2021)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1118314.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43C6dTRAk48V6xTlY1a1KMMK0uZ.jpg",MisiÃƒÂ³n imposible 2 (2000)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1174025.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg",MisiÃƒÂ³n imposible: Fallout (2018)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1093997.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",MisiÃƒÂ³n: Imposible - Sentencia mortal parte uno (2023)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1178321.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg",Pesadilla en Elm Street (1984)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1174214.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg",Pesadilla en Elm Street (El origen) (2010)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099222.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg",Pesadilla en Elm Street 2: La venganza de Freddy (1985)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099217.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyKFg5KMD8QIzIn2Uc48nZAzbXi.jpg",Pesadilla en Elm Street 3: Los guerreros del sueÃƒÂ±o (1987)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099218.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg",Pesadilla en Elm Street 4: El amo del sueÃƒÂ±o (1988)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099219.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg",Pesadilla en Elm Street 5: El niÃƒÂ±o de los sueÃƒÂ±os (1989)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1099220.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg",Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6) (1991)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1174215.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",Rambo - 1982
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094092.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg",Rambo III - 1988
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171650.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",Rambo: Acorralado Parte II - 1985
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1171651.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg",Rambo: Last Blood (2019)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094096.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldJzO9D40mCVeDaZQ1986t8rguZ.jpg",Regreso al futuro (1985)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095966.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t27pmhEZoNFOQUXKJZICNfBoVeS.jpg",Regreso al futuro II (1989)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095967.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Sd42pdvz0JcswvBuMlgAAsCJu.jpg",Regreso al futuro III (1990)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095968.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnFqGOKi3oxiIuWffSrGGRPG9qu.jpg",RoboCop (1987)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1173514.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDfjkGzvYR4fx93imv5ATFGtOJB.jpg",Spy Kids (2001)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1177161.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFSE5TGLIhjR49Pg0beMqaAPEtw.jpg",Spy Kids 2: La isla de los sueÃƒÂ±os perdidos (2002)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1177162.mp4
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p00sDPhEvzgr9J0mI2OtTWt0TtX.jpg",Terminator (1984)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095900.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtgdiEwBDdyyMj241DURRCiD5se.jpg",Terminator 2: el juicio final (1991)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095805.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",Terminator 3: La rebeliÃƒÂ³n de las mÃƒÂ¡quinas (2003)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095806.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg",Terminator GÃƒÂ©nesis (2015)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095808.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",Terminator: destino oscuro (2019)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095807.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/864FCqlmdvQKyFPZwXicMIO8YkI.jpg",Terminator: Salvation (2009)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095809.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg",Wolverine: inmortal
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094296.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg",X-Men (2000)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094388.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JjzEdEjHCAd4VZCvgMz8M5ekFg.jpg",X-Men 2 (2003)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095991.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg",X-Men 3: La batalla final (2006)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094390.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ET4lACwrb97sdPzmIThieasOk.jpg",X-Men: Apocalipsis (2016)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1095990.mkv
-#EXTINF:-1 group-title="Peliculas - Sagas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",X-Men: Dark FÃƒÂ©nix (2019)
-http://tv.nousiptv.com:8080/movie/maira3/31082021/1094387.mkv
-#EXTINF:-1 group-title="Adultos",Playboy
-http://138.59.177.34:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Adultos",Venus
-http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",ADN 40
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",France 24
+https://marine2.miplay.cl/france24/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="Otiplay Flex TV",TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Otiplay Flex TV",Sony Channel
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Otiplay Flex TV",Warner
+http://168.181.122.234:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Otiplay Flex TV",Star Channel
+http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Otiplay Flex TV",AXN
+http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Otiplay Flex TV",Universal
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Otiplay Flex TV",Studio Universal
+http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="n/a" group-title="Otiplay Flex TV",A&E
+http://bantel.iptvperu.tv:1935/transcoder_t4/aye_t4/chunks.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",TNT Series
+http://168.181.122.234:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",USA Networks
+http://45.5.116.178:8000/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",History
+http://45.5.116.178:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Otiplay Flex TV",H2
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHxvcrLV/AMC-EN-ESPA-OL-NUEVO.png" group-title="Otiplay Flex TV",AMC
+http://138.59.177.34:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Discovery
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Discovery Theater
+http://138.59.177.34:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",National Geographic
+http://45.5.116.178:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="na"  group-title="Otiplay Flex TV",Animal Planet
+http://168.181.122.234:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Mas Chic
+http://138.59.177.34:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Lifetime
+http://138.59.177.34:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="Otiplay Flex TV",E! Entertainment
+http://bantel.iptvperu.tv:1935/transcoderip/e!_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",TLC - Travel and Living
+http://168.181.122.234:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Home & Health
+http://138.59.177.34:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Otiplay Flex TV",Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Comedy Central
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Las Estrellas
+http://138.59.177.34:8000/play/a07k/index.m3u8
+#EXTINF:-1 tvg-logo="n/a" group-title="Otiplay Flex TV",Pasiones
+http://160.20.165.246:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",RCN Novelas
+http://138.59.177.34:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Telemundo
+http://160.20.165.246:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",TL Novelas
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",TNT Novelas
+ttp://45.5.116.178:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Cartoon Network
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Discovery Kids
+http://138.59.177.34:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="na" group-title="Otiplay Flex TV",Disney Channel
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Disney Junior
+http://45.5.116.178:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Nickelodeon
+http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Nick JR
+http://168.181.122.234:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",FMH Kids
+http://160.20.165.245:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Canal Infantil
+http://bantel.iptvperu.tv:1935/transcoderip/canalinfantil_t1/chunks.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Clover Channel
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",DHE
+http://45.5.116.178:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",FX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",HBO
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Otiplay Flex TV",Paramount Network
+http://45.5.116.178:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Sony Movies
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",Space
+http://168.181.122.234:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",FMH Family
+http://160.20.165.246:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Otiplay Flex TV",ESPN
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="Otiplay Flex TV",ESPN 2
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Otiplay Flex TV",ESPN 3
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Otiplay Flex TV",ESPN 4
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Otiplay Flex TV",ESPN 5
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="Otiplay Flex TV",ESPN 6
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Otiplay Flex TV",ESPN 7
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="Otiplay Flex TV",TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 group-title="Otiplay Flex TV",TyC Sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-logo="nex" group-title="Otiplay Flex TV",Golf Channel
+http://45.5.116.178:8000/play/a06j/index.m3u8
+
+ 
+#EXTINF:-1 group-title="Otiplay Flex TV",Concert Channel
+http://45.5.116.178:8000/play/a055/index.m3u8
