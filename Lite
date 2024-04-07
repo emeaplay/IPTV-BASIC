@@ -50,7 +50,7 @@ http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
 #EXTINF:-1 group-title="Otiplay Flex TV",TVE
 http://45.225.104.138:8000/play/a0d5/index.m3u8
 #EXTINF:-1 group-title="Otiplay Flex TV",Antena 3
-http://stream.flynetwifi.com:1935/live/mobile-008/playlist.m3u8
+http://45.166.92.22:58001/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="nex" group-title="Otiplay Flex TV",CNN en espanol
 http://168.181.122.234:8000/play/a01r/index.m3u8
