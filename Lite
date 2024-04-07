@@ -69,7 +69,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/tnt-tv5096.jpg" group-title="Otiplay Flex TV",TNT
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+http://170.82.37.21:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Otiplay Flex TV",Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Otiplay Flex TV",Warner
