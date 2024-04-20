@@ -124,7 +124,7 @@ http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-logo="na" group-title="OPEN TV",TL Novelas
 http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="OPEN TV",TNT Novelas
-
+http://45.186.106.207:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="na" group-title="OPEN TV",Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="OPEN TV",Discovery Kids
