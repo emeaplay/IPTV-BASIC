@@ -14,11 +14,11 @@ http://bantel.iptvperu.tv:1935/transcoderip/exitosa_t1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="OPEN TV",TV Peru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8
 #EXTINF:-1 group-title="OPEN TV",Canal N
-http://45.225.104.138:8000/play/a0f0/index.m3u8
+http://177.53.153.20:8001/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="OPEN TV",ATV
 http://45.225.104.138:8000/play/a0f1/index.m3u8
 #EXTINF:-1 group-title="OPEN TV",RPP TV
-http://45.225.104.138:8000/play/a0da/index.m3u8
+http://191.97.58.41:8001/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="OPEN TV",USMP TV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="OPEN TV",Willax
