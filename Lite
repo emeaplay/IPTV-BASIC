@@ -16,7 +16,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8
 #EXTINF:-1 group-title="OPEN TV",Canal N
 http://177.53.153.20:8001/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="OPEN TV",ATV
-http://45.225.104.138:8000/play/a0f1/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t6/atvmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 group-title="OPEN TV",RPP TV
 http://191.97.58.41:8001/play/a00v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyW6vij-.jpg" group-title="OPEN TV",USMP TV
@@ -38,19 +38,21 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/LaTele_-_Logo_Oficial_2018_%28Vertical_On_Screen%29_%28Rojo%29_%28HiDef%29.png" group-title="OPEN TV",La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="OPEN TV",Gol Peru
-http://45.225.104.138:8000/play/a088/index.m3u8
+http://177.53.153.20:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-logo="https://claroperupoc.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" group-title="OPEN TV",L1 Max
 http://38.43.132.86:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="OPEN TV",Univision
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="OPEN TV",Azteca Internacional
 http://stream.flynetwifi.com:1935/live/mobile-117/playlist.m3u8
-#EXTINF:-1 group-title="OPEN TV",TVE
-http://45.225.104.138:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="OPEN TV",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 group-title="OPEN TV",Antena 3
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="nex" group-title="OPEN TV",CNN en espanol
 http://168.181.122.234:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="OPEN TV",TVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="nex" group-title="OPEN TV",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="nex" group-title="OPEN TV",Canal Congreso
