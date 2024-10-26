@@ -7,11 +7,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunk
 #EXTINF:0,Nativa
 https://live-evg4.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 #EXTINF:0,America TV
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/chunks.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:0,Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 #EXTINF:0,Exitosa
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/chunks.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/exitosa.stream/playlist.m3u8
 #EXTINF:0,TV Peru
 https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
 #EXTINF:0,ATV Noticias
@@ -45,15 +45,15 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 #EXTINF:0,Canal N
 http://38.43.151.206:8000/play/a06c/index.m3u8
 #EXTINF:0,GOLPERU HD
-http://38.43.151.206:8000/play/a036/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/bein_sports_Xtra/playlist.m3u8
 #EXTINF:0,LIGA 1 MAX
-http://38.43.151.206:8000/play/a069/index.m3u8
+http://177.53.155.236:8000/play/a0bt/index.m3u8
 #EXTINF:0,Movistar Deportes HD
 http://38.43.151.206:8000/play/a02z/index.m3u8
 #EXTINF:0,Movistar Plus
 http://38.43.151.206:8000/play/a06b/index.m3u8
 #EXTINF:0,RPP
-http://177.53.153.227:8000/play/a02k/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
 #EXTINF:-1,Inti Networks
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 
