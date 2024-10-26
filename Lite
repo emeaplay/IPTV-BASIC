@@ -41,15 +41,15 @@ https://live-evg14.tv360.bitel.com.pe/salida/milenial.m3u8?uid=112
 #EXTINF:0,TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
 #EXTINF:0,Canal N
-http://38.43.151.206:8000/play/a06c/index.m3u8
+http://131.196.13.102:8000/play/a026/index.m3u8
 #EXTINF:0,GOLPERU HD
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/bein_sports_Xtra/playlist.m3u8
 #EXTINF:0,LIGA 1 MAX
 http://177.53.155.236:8000/play/a0bt/index.m3u8
 #EXTINF:0,Movistar Deportes HD
 http://38.43.151.206:8000/play/a02z/index.m3u8
-#EXTINF:0,Movistar Plus
-http://38.43.151.206:8000/play/a06b/index.m3u8
+#EXTINF:0,Peru Magico
+http://131.196.13.102:8000/play/a02e/index.m3u8
 #EXTINF:0,RPP
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
 #EXTINF:-1,Inti Networks
