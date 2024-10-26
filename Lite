@@ -5,7 +5,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/MaticesTV/playlist.m3u8
 #EXTINF:0,Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:0,Nativa
-https://live-evg4.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:0,America TV
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
 #EXTINF:0,Panamericana
@@ -34,8 +34,6 @@ https://live-evg18.tv360.bitel.com.pe/iptvovacion1/liveovacion1tv/chunklist.m3u8
 https://live-evg24.tv360.bitel.com.pe/conecta2/tracks-v1a1/mono.m3u8?uid=112
 #EXTINF:0,CTV
 https://live-evg4.tv360.bitel.com.pe/bitel/ctv/chunks.m3u8#EXTINF:0,Like TV
-#EXTINF:0,TV Cosmos
-https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8?uid=112
 #EXTINF:-1,Justicia TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
 #EXTINF:0,Milenial TV
