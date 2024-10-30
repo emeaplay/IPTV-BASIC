@@ -52,7 +52,7 @@ https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/chunklist.m3u8
 #EXTINF:0,CTV
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1,TVE
-http://200.59.188.3:8000/play/a05n
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1,A3 Series
 http://200.59.188.3:8000/play/a0iq
 #EXTINF:-1,Andalucia Cocina
@@ -77,6 +77,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1,TVE 24H
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1,TVE La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1,TVE La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
 
 
 #EXTINF:0,Milenial TV
