@@ -46,6 +46,8 @@ http://131.196.13.102:8000/play/a02e/index.m3u8
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1,Logos Salud TV
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1,TV Salud
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/chunklist.m3u8
 
 #EXTINF:0,CTV
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
@@ -73,6 +75,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,EuroNEWS Espanol
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,TVE 24H
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 
 #EXTINF:0,Milenial TV
