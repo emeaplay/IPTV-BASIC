@@ -51,7 +51,32 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 #EXTINF:0,Conecta2
 https://live-evg24.tv360.bitel.com.pe/conecta2/tracks-v1a1/mono.m3u8?uid=112
 #EXTINF:0,CTV
-https://live-evg4.tv360.bitel.com.pe/bitel/ctv/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
+#EXTINF:-1,TVE
+http://200.59.188.3:8000/play/a05n
+#EXTINF:-1,A3 Series
+http://200.59.188.3:8000/play/a0iq
+#EXTINF:-1,Andalucia Cocina
+http://200.59.188.3:8000/play/a0eh
+#EXTINF:-1,Canal RCN
+http://200.59.188.3:8000/play/a03a
+#EXTINF:-1,RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1,Identidad TV Noticias
+https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="OTIPLAY TV",HispanTV
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY TV",CNN en espanol
+http://168.181.122.234:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="OTIPLAY TV",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="OTIPLAY TV",CGTN En Espanol
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="OTIPLAY TV",DW Espanol
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1,EuroNEWS Espanol
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
+
 
 #EXTINF:-1,123 TV
 http://200.59.188.3:8000/play/a08r
@@ -65,8 +90,6 @@ http://200.59.188.3:8000/play/a08s
 http://200.59.188.3:8000/play/a01y
 #EXTINF:-1,ANTV
 http://200.59.188.3:8000/play/a08p
-#EXTINF:-1,ATRES SERIES HD
-http://200.59.188.3:8000/play/a0iq
 #EXTINF:-1,AXN
 http://200.59.188.3:8000/play/a03u
 #EXTINF:-1,AXN HD
@@ -75,8 +98,6 @@ http://200.59.188.3:8000/play/a00i
 http://200.59.188.3:8000/play/a0ek
 #EXTINF:-1,America TV HD
 http://200.59.188.3:8000/play/a02l
-#EXTINF:-1,Andalucia Cocina
-http://200.59.188.3:8000/play/a0eh
 #EXTINF:-1,Animal Planet HD
 http://200.59.188.3:8000/play/a029
 #EXTINF:-1,Antena 3
@@ -117,8 +138,6 @@ http://200.59.188.3:8000/play/a039
 http://200.59.188.3:8000/play/a07t
 #EXTINF:-1,Canal Estrellas
 http://200.59.188.3:8000/play/a07m
-#EXTINF:-1,Canal RCN
-http://200.59.188.3:8000/play/a03a
 #EXTINF:-1,Canal Uno
 http://200.59.188.3:8000/play/a037
 #EXTINF:-1,Canela Novelas
@@ -289,7 +308,7 @@ http://200.59.188.3:8000/play/a096
 http://200.59.188.3:8000/play/a0jk
 #EXTINF:-1,Mundo Peq
 http://200.59.188.3:8000/play/a0ed
-#EXTINF:-1,MÃ†sChic
+#EXTINF:-1,Mas Chic
 http://200.59.188.3:8000/play/a0ka
 #EXTINF:-1,NTN 24 Horas
 http://200.59.188.3:8000/play/a0h3
@@ -387,8 +406,6 @@ http://200.59.188.3:8000/play/a019
 http://200.59.188.3:8000/play/a08w
 #EXTINF:-1,TV+ HD
 http://200.59.188.3:8000/play/a01t
-#EXTINF:-1,TVE
-http://200.59.188.3:8000/play/a05n
 #EXTINF:-1,TVES
 http://200.59.188.3:8000/play/a08n
 #EXTINF:-1,TVFANB
