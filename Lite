@@ -63,15 +63,15 @@ http://200.59.188.3:8000/play/a03a
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1,Identidad TV Noticias
 https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="OTIPLAY TV",HispanTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg",HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png" group-title="OTIPLAY TV",CNN en espanol
+#EXTINF:-1 tvg-logo="https://c3.klipartz.com/pngpicture/598/444/sticker-png-tv-channel-icons-pack-cnn-int-color.png",CNN en espanol
 http://168.181.122.234:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="OTIPLAY TV",Telesur
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="OTIPLAY TV",CGTN En Espanol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",CGTN En Espanol
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="OTIPLAY TV",DW Espanol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,EuroNEWS Espanol
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
