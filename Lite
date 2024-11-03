@@ -89,7 +89,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1,CNN Internacional
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
+#EXTINF:-1,NTN 24
+http://160.20.165.246:8000/play/a00y/index.m3u8
 
 #EXTINF:0,Milenial TV
 https://live-evg14.tv360.bitel.com.pe/salida/milenial.m3u8?uid=112
