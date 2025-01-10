@@ -34,7 +34,7 @@ https://play.agenciastreaming.com:8081/maticestv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTIPLAY TV",TeleLima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 ,Canal N
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+http://38.41.8.1:8000/play/a0iv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="OTIPLAY TV",Justicia TV
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
 #EXTINF:-1 group-title="OTIPLAY TV",Latina Clasicos
