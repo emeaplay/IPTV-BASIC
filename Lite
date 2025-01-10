@@ -1,47 +1,44 @@
 #EXTM3U
-
-#EXTINF:0 tvg-logo="https://i.gifer.com/origin/7c/7ccab4db8c75f88aa68941a88588c526_w200.gif",Canal UNO
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/MaticesTV/playlist.m3u8
-#EXTINF:0,Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
-#EXTINF:0,Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-#EXTINF:0,America TV
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/americatv.stream/playlist.m3u8
-#EXTINF:0,Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
-#EXTINF:0,Exitosa
-http://bantel-cdn1.iptvperu.tv:1935/cdnery/exitosa.stream/playlist.m3u8
-#EXTINF:0,TV Peru
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
-#EXTINF:0,ATV Noticias
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
-#EXTINF:0,ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
-#EXTINF:0,TeleLima
-http://38.44.237.132:2080/TeleLima/index.m3u8
-#EXTINF:0,Top Latino
-https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8?uid=112
-#EXTINF:0,Willax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="OTIPLAY TV",Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
-#EXTINF:0,Global
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="OTIPLAY TV",Latina
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2139264184066cfcc646e972&ndvc=0&sid=ba5t1l1xb2178480501966cfcc6658b39
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="OTIPLAY TV",PBO
+https://live-evg1.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="OTIPLAY TV",America TV
+https://live-evg4.tv360.bitel.com.pe/dzJQvTHRUGY0WWs2v2hmkQ/1736569779/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="OTIPLAY TV",Panamericana
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=112
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="OTIPLAY TV",Exitosa TV
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?uid=112
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="OTIPLAY TV",TV Peru
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="OTIPLAY TV",ATV+ Noticias
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png" group-title="OTIPLAY TV",ATV
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RPP_TV_-_2017_logo.png/1200px-RPP_TV_-_2017_logo.png" group-title="OTIPLAY TV",RPP TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Latina_digital.png/800px-Latina_digital.png" group-title="OTIPLAY TV",Latina Digital
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8
+#EXTINF:-1 group-title="OTIPLAY TV",Trivu TV
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="OTIPLAY TV",Global
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:0,PBO
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
-#EXTINF:0,Ovacion
-https://live-evg18.tv360.bitel.com.pe/iptvovacion1/liveovacion1tv/chunklist.m3u8?uid=112
-#EXTINF:-1,Justicia TV
-http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
-#EXTINF:0,RPP
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
-#EXTINF:0,Canal N
-http://131.196.13.102:8000/play/a026/index.m3u8
-#EXTINF:0,GOLPERU HD
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/bein_sports_Xtra/playlist.m3u8
-#EXTINF:0,LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" group-title="OTIPLAY TV",Gol Peru
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/bein_sports_Xtra/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="OTIPLAY TV",L1 MAX
 http://177.53.155.236:8000/play/a0bt/index.m3u8
-#EXTINF:0,Peru Magico
-http://131.196.13.102:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="" group-title="OTIPLAY TV",Matices TV
+https://play.agenciastreaming.com:8081/maticestv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTIPLAY TV",TeleLima
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1 ,Canal N
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Justicia_TV.png" group-title="OTIPLAY TV",Justicia TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/chunks.m3u8
+#EXTINF:-1 group-title="OTIPLAY TV",Latina Clasicos
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8?dpssid=b284498924672ed94de336f&sid=ba5t1l1xb21343472344672ede298247b&ndvc=0
 #EXTINF:-1,Inti Networks
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1,Logos Salud TV
